@@ -19,6 +19,7 @@ Die Präsentation kannst gibts auch bei uns:
 
 ### Gründe für Genossenschaft
 > Einer für alle - Alle für einen!
+
 Jemand bekommt einen kleinen Auftrag neben seiner Brötchenarbeit   und bekommt dafür ein bisschen Geld, aber es lohnt sich ne Firma mit allem drum und dran nicht und dem Finanzamt möchte man das nicht verschweigen.
 Mensch betreibt nen Podcast und möchte gern die kleinen Geldbeträge seiner Hörer entgegen nehmen.
 Oder man mal nen Container China-Elektronik kaufen und brauch ne Zoll-Nummer.
