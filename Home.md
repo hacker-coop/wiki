@@ -1,12 +1,16 @@
 Dies ist Die Infoseite zur Hackergenossenschaft i.G.
 
-*Wir suchen noch immer Interressenten* 
-:postbox: geno@damals-tm-podcast.de
+*Wir suchen noch immer Interressent*innen* 
+📮 geno@damals-tm-podcast.de
 
 ## Allgemeines & Videos 
 
 Der [@ajuvo](https://chaos.social/@ajuvo) hat man nen kleinen Talk auf Datenspuren 2017 gehalten und das kann man sich hier anschauen unter [media.ccc.de](https://media.ccc.de/v/DS2017-8659-hacker_eg) anschauen.
 Außerdem gibt es einen [Lightning Talk](https://media.ccc.de/v/34c3-9256-lightning_talks_day_2#t=2722) vom 34c3.
+
+Die Präsentation kannst gibts auch bei uns:
+![“Hacker eG”](./files/)
+
 ### Kosten
 - 10k für Gründung
 - Administrative Kosten (Mitgliederverwaltung, Buchhaltung, etc.)
