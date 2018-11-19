@@ -3,7 +3,7 @@ Dies ist Die Infoseite zur Hackergenossenschaft i.G.
 *Wir suchen noch immer Interressenten* 
 :postbox: geno@damals-tm-podcast.de
 
-[Hintergrund](https://coop.therojam.space/pages/Hintergrund)
+[Hintergrund](https://coop.therojam.space/wiki/Hintergrund)
 
 ## Allgemeines & Videos 
 
