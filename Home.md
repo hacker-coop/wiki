@@ -7,6 +7,8 @@ geno@damals-tm-podcast.de
 
 [Hintergrund](https://coop.therojam.space/wiki/Hintergrund)
 
+[Impressum](https://coop.therojam.space/wiki/Imprint)
+
 ## Allgemeines & Videos 
 
 Der [@ajuvo](https://chaos.social/@ajuvo) hat man nen kleinen Talk auf Datenspuren 2017 gehalten und das kann man sich hier anschauen unter [media.ccc.de](https://media.ccc.de/v/DS2017-8659-hacker_eg) anschauen.
