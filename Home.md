@@ -1,7 +1,9 @@
-Dies ist Die Infoseite zur Hackergenossenschaft "Hacker eG" i.G.
+Dies ist die Infoseite zur Hackergenossenschaft "Hacker eG" i.G.
 
 *Wir suchen noch immer Interessenten* 
-:postbox: geno@damals-tm-podcast.de
+Man kann sich unverbindlich hier per mail melden:
+
+geno@damals-tm-podcast.de
 
 [Hintergrund](https://coop.therojam.space/wiki/Hintergrund)
 
