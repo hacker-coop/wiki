@@ -14,7 +14,7 @@ Auf der Seite "Hintergrund" werden kurz die $Gründe dahinter dargestellt:
 
 [Hintergrund](https://coop.therojam.space/wiki/Hintergrund)
 
-[Ablauf](https://coop.therojam.space/wiki/Geplanter-Ablauf-(tm))
+[Ablauf](https://coop.therojam.space/wiki/Geplanter-Ablauf-(tm)
 
 [Impressum](https://coop.therojam.space/wiki/Imprint)
 
