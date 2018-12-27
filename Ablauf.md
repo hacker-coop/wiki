@@ -1,7 +1,7 @@
 Folgendes ist zu tun:
 
 +
-100+ $Entitäten melden sich per e-mail als Interessenten
+100+ $Entitäten melden sich per e-mail als Interessenten. Wir sind aktuell ca. 40. 
 
 +
 Es gibt ein Dudl für einen Face-to-Face - Termin. Dieser wird für das Mitmachen nicht obligatorisch sein. Der Termin wird sinnvollerweise etwas mit Chaos zu tun haben.
@@ -15,7 +15,7 @@ Auf dem Termin wird ein Verein gegründet. Noch nicht die Genossenschaft. Zweck 
 Außerdem werden ein paar essentielle Dinge besprochen.
 
 +
-Der Verein organisiert durch seinen Vorstand Kleingruppen von Mitgliedern, die sich um dedizierte Pakete kümmern: Satzung, Büro, Mitgliederbetreuung, Gründungsformalitäten, Genossenschaftsverband, Finanzen, IT, Services, etc. 
+Der Verein organisiert durch seinen Vorstand Kleingruppen von Mitgliedern, die sich um dedizierte Pakete kümmern: Satzung, Büro, Mitgliederbetreuung, Gründungsformalitäten, Genossenschaftsverband, Finanzen, IT, Services, etc. Vor allem sammelt der Verein von den Geld für die Gründung der Genossenschaft. 
 
 +
 Alle müssen nach Können und Vermögen mithelfen, die Genossenschaft zu gründen und die Gründung vorzubereiten. Dazu bringen kundige Mitglieder Fachwissen ein: juristisches, steuerfachliches, kaufmännisches, technisches, kreatives Wissen. Die Genossenschaft kann die Erstellung ihrer Produktionswerkzeuge nicht bezahlen. Wir müssen diese für sie bauen. Möglichst jedes Mitglied soll mithelfen.
