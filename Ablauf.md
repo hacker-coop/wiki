@@ -15,13 +15,13 @@ Auf dem Termin wird ein Verein gegründet. Noch nicht die Genossenschaft. Zweck 
 Außerdem werden ein paar essentielle Dinge besprochen.
 
 +
-Der Verein organisiert durch seinen Vorstand Kleingruppen von Mitgliedern, die sich um dedizierte Pakete kümmern: Satzung, Büro, Mitgliederbetreuung, Gründungsformalitäten, Genossenschaftsverband, Finanzen, IT, Services, etc. Vor allem sammelt der Verein von den Geld für die Gründung der Genossenschaft. 
+Der Verein organisiert durch seinen Vorstand Kleingruppen von Mitgliedern, die sich um dedizierte Pakete kümmern: Satzung, Büro, Mitgliederbetreuung, Gründungsformalitäten, Genossenschaftsverband, Finanzen, IT, Services, etc. 
 
 +
 Alle müssen nach Können und Vermögen mithelfen, die Genossenschaft zu gründen und die Gründung vorzubereiten. Dazu bringen kundige Mitglieder Fachwissen ein: juristisches, steuerfachliches, kaufmännisches, technisches, kreatives Wissen. Die Genossenschaft kann die Erstellung ihrer Produktionswerkzeuge nicht bezahlen. Wir müssen diese für sie bauen. Möglichst jedes Mitglied soll mithelfen. Jeder kann etwas beitragen: Text, Code, Geld, Ideen, ... 
 
 +
-Sobald die formalen, finanziellen und technischen Voraussetzungen geschaffen sind, gründen die Mitglieder die Genossenschaft als juristische Person und bestellen die Organe; diese wird in das Genossenschaftsregister eingetragen und nimmt ihren Geschäftsbetrieb auf.  
+Sobald die formalen, finanziellen und technischen Voraussetzungen geschaffen sind, gründen die Mitglieder die Genossenschaft als juristische Person und bestellen die Organe; diese wird in das Genossenschaftsregister eingetragen und nimmt ihren Geschäftsbetrieb auf.  Die ;Mitglieder müssen das Geschäftsguthaben auf die von ihnen gezeichneten Anteile einzahlen.
 
 Das Ganze wird 9-12 Monate dauern. Erst wenn die Genossenschaft im Register steht, kann sie ihre Arbeit aufnehmen.
 
