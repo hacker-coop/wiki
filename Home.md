@@ -1,6 +1,7 @@
 Dies ist die  nichtöffentliche Infoseite zur 
 
-# Hackergenossenschaft "Franz Nord" eG i.G.
+# Hackergenossenschaft "Franz Nord" eG i.G. 
+## (Arbeitstitel)
 
 Interessenten werden gebeten, sich mit einer leeren e-mail mit dem Betreff "Interesse" an diese Mailadresse zu wenden:
 
