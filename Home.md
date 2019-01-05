@@ -15,6 +15,17 @@ Unten werden laufend Informationsquellen nachgetragen. Auch An- und Rückfragen 
 
 In den nächsten Wochen erhalten alle Registrierten eine mail mit mehr Infos, hier wird mehr hereingekippt worden sein, und vielleicht (Werkzeugdiskussion...) machen wir irgendwo ein Wiki mit FAQs auf. Mal sehen.
 
+
+
+# Inhaltliches
+
+Auf der Seite "Hintergrund" werden kurz die $Gründe dahinter dargestellt:
+
+[Hintergrund](https://coop.therojam.space/wiki/Hintergrund)
+
+[Ablauf](https://coop.therojam.space/wiki/Ablauf)
+
+
 # Der Vortrag vom #35c3 ist hier:
 
 https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-wirtschaften 
@@ -22,14 +33,6 @@ https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-w
 Die Folien dazu hier: https://therojam.net/35c3-Presentation/presentation.html
 und den SourceCode findest du hier: https://github.com/hacker-coop/35c3-Presentation/
 
-
-## Inhaltliches
-
-Auf der Seite "Hintergrund" werden kurz die $Gründe dahinter dargestellt:
-
-[Hintergrund](https://coop.therojam.space/wiki/Hintergrund)
-
-[Ablauf](https://coop.therojam.space/wiki/Ablauf)
 
 [Impressum](https://coop.therojam.space/wiki/Imprint)
 
