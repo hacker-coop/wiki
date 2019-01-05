@@ -9,7 +9,7 @@ geno@damals-tm-podcast.de
 
 Danke für die Beachtung aller Sicherheitshinweise.
 
-Die Hacker eG (Arbeitstitel) auf Mastodon: [https://chaos.social/@HackerGeno](@HackerGeno@chaos.social)
+Die Hacker eG (Arbeitstitel) auf Mastodon: [@HackerGeno@chaos.social](https://chaos.social/@HackerGeno)
 
 Unten werden laufend Informationsquellen nachgetragen. Auch An- und Rückfragen können an die o.a. Mailadresse gerichtet werden. 
 
