@@ -19,7 +19,7 @@ In den nächsten Wochen erhalten alle Registrierten eine mail mit mehr Infos, hi
 
 https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-wirtschaften 
 
-Die Folien dazu hier: [https://therojam.net/35c3-Presentation/presentation.html]
+Die Folien dazu hier: https://therojam.net/35c3-Presentation/presentation.html
 und den SourceCode findest du hier: https://github.com/hacker-coop/35c3-Presentation/
 
 
