@@ -9,7 +9,7 @@ geno@damals-tm-podcast.de
 
 Danke für die Beachtung aller Sicherheitshinweise.
 
-Die Hacker eG (Arbeitstitel) auf Mastodon: @HackerGeno@chaos.social
+Die Hacker eG (Arbeitstitel) auf Mastodon: (@HackerGeno@chaos.social)[https://chaos.social/@HackerGeno]
 
 Unten werden laufend Informationsquellen nachgetragen. Auch An- und Rückfragen können an die o.a. Mailadresse gerichtet werden. 
 
@@ -19,7 +19,9 @@ In den nächsten Wochen erhalten alle Registrierten eine mail mit mehr Infos, hi
 
 https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-wirtschaften 
 
-Die Folien dazu hier: https://therojam.net/35c3-Presentation/presentation.html#1
+Die Folien dazu hier: [https://therojam.net/35c3-Presentation/presentation.html]
+und den SourceCode findest du hier: https://github.com/hacker-coop/35c3-Presentation/
+
 
 ## Inhaltliches
 
