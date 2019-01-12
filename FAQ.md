@@ -38,4 +38,4 @@ v0.1 (180111)
 
 ....bitte fortsetzen, behutsam mergen und sortieren.
 
-[Home](https://coop.therojam.space/pages/Home)
+[Home](https://coop.therojam.space/wiki/Home)
