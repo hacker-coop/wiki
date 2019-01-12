@@ -16,7 +16,7 @@ Danke für die Beachtung aller Sicherheitshinweise.
 Hier gibt es eine kleine Sprachdatei mit Begrüßung und Erklärung: https://hybr.de/podcast/files/geno1.mp3
 
 Die Hacker eG (Arbeitstitel) auf Mastodon: [@HackerGeno@chaos.social](https://chaos.social/@HackerGeno)
-Invite für chaos.social hier: https://chaos.social/invite/caXyxMCs (gültig bis 19.1., begrenzte Menge!)
+Invite für chaos.social hier: https://chaos.social/invite/w8tjFbAd (gültig bis 19.1., begrenzte Menge!)
 
 Bitte holt Euch hier oder, wenn der Invite ausgenutzt ist, auf einer anderen Instanz einen Account. Wir werden damit die nähere Zeit über viel kommunizieren!
 
