@@ -13,7 +13,10 @@ geno@damals-tm-podcast.de
 
 Danke für die Beachtung aller Sicherheitshinweise.
 
+Hier gibt es eine kleine Sprachdatei mit Begrüßung und Erklärung: https://hybr.de/podcast/files/geno1.mp3
+
 Die Hacker eG (Arbeitstitel) auf Mastodon: [@HackerGeno@chaos.social](https://chaos.social/@HackerGeno)
+Invite für chaos.social hier: https://chaos.social/invite/NkKLsCB4 (gültig bis 19.1.)
 
 Unten werden laufend Informationsquellen nachgetragen. Auch An- und Rückfragen können an die o.a. Mailadresse gerichtet werden. 
 
