@@ -17,16 +17,18 @@ Registrierung bleibt offen.
 ++ebenso Kompetenzen bei der Ausstattung der Genossenschaft: Code, legal, accountancy etc.
 ++Kapazitäten zur Verfügungstellung während des Aufbaus der Genossenschaft: Serverspace, Adminleistungen, Backups, etc.
 
++ Die Verpflichtungserklärungen müssen zeitnah zurückgesandt werden (an ajuvos Büro); es müssen mindestens 100 zurückkommen, damit es weitergehen kann.
+
 + Kreativleistungen: Name, Logo, Infofolder, Webseite, Claim, CI, ... (Forum & Cryptpads
 
 
-+ Gründungsvereinsgründung, am Rande der GPN zB.; Kontoeröffnung, Geldeinzahlung; Beitrag 100 € 1 x; davon Deckung der Gründungs- und Vorbereitungskosten. 2 Vorstandsmitglieder reichen.Diese überwachen die Verwendung der eingezahlten Gelder. Es müssen hier nicht alles Mitglieder mitmahen, hauptsache wir sind 7+ ppl.
++ Gründungsvereinsgründung, am Rande der GPN19 zB.; Kontoeröffnung, Geldeinzahlung; Beitrag 100 € 1 x; davon Deckung der Gründungs- und Vorbereitungskosten. 2 Vorstandsmitglieder reichen.Diese überwachen die Verwendung der eingezahlten Gelder. Es müssen hier nicht alles Mitglieder mitmahen, hauptsache wir sind 7+ ppl.
 
 + Es bilden sich Kompetenz- und Interesssengruppen über das Forum
 ++Diese können dann direkt tätig werden.
 ++Der Verein organisiert durch seinen Vorstand Kleingruppen von Mitgliedern, die sich um dedizierte Pakete kümmern: Satzung, Büro, Mitgliederbetreuung, Gründungsformalitäten, Genossenschaftsverband, Finanzen, IT, Services, etc. 
 
-Der Vorstand statt die Gruppen nach Bedarf mit etwas Vereinsgeld aus.
+Der Vorstand stattet die Gruppen nach Bedarf mit etwas Vereinsgeld aus.
 
 + Es gibt einen Dudl für einen Face-to-Face - Termin. Dieser wird für das Mitmachen nicht obligatorisch sein. Der Termin wird sinnvollerweise etwas mit Chaos zu tun haben.
 
