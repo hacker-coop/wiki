@@ -20,6 +20,9 @@ Invite für chaos.social hier: https://chaos.social/invite/NkKLsCB4 (gültig bi
 
 Unten werden laufend Informationsquellen nachgetragen. Auch An- und Rückfragen können an die o.a. Mailadresse gerichtet werden. 
 
+## Nächste Aufgabe ist die Erstellung von FAQ (nur Fragen) durch Crowdsourcing, 
+siehe hier: [FAQ](https://coop.therojam.space/wiki/FAQ) 
+
 In den nächsten Wochen erhalten alle Registrierten eine mail mit mehr Infos, hier wird mehr hereingekippt worden sein, und vielleicht (Werkzeugdiskussion...) machen wir irgendwo ein Wiki mit FAQs auf. Mal sehen.
 
 
