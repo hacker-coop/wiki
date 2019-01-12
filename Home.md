@@ -17,15 +17,16 @@ Hier gibt es eine kleine Sprachdatei mit Begrüßung und Erklärung: https://hyb
 
 Die Hacker eG (Arbeitstitel) auf Mastodon: [@HackerGeno@chaos.social](https://chaos.social/@HackerGeno)
 Invite für chaos.social hier: https://chaos.social/invite/NkKLsCB4 (gültig bis 19.1.)
+Bitte holt Euch hier einen Account, wenn Ihr nicht schon anderswo einen Mastodon-Account im Fediverse habt. Wir werden damit die nähere Zeit über viel kommunizieren!
 
 Unten werden laufend Informationsquellen nachgetragen. Auch An- und Rückfragen können an die o.a. Mailadresse gerichtet werden. 
 
 ## Nächste Aufgabe ist die Erstellung von FAQ (nur Fragen) durch Crowdsourcing, 
-siehe hier: [FAQ](https://coop.therojam.space/wiki/FAQ) 
+bitte schreibt dazu hier hinein: [FAQ](https://coop.therojam.space/wiki/FAQ) 
 
-In den nächsten Wochen erhalten alle Registrierten eine mail mit mehr Infos, hier wird mehr hereingekippt worden sein, und vielleicht (Werkzeugdiskussion...) machen wir irgendwo ein Wiki mit FAQs auf. Mal sehen.
+In den nächsten Wochen erhalten alle Registrierten eine mail mit mehr Infos, hier wird mehr hereingekippt worden sein, und ein Forum (Werkzeugdiskussion...) wird aufgemacht worden sein, so dass wir strukturiert unsere Entscheidungen bilden können.
 
-
+Weiteres unten unter "Ablauf".
 
 # Inhaltliches
 
