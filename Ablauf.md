@@ -45,3 +45,5 @@ Das Ganze wird 9-12 Monate dauern. Erst wenn die Genossenschaft im Register steh
 Die Gründung einer Genossenschaft ist aufwändig und teuer. Aber das zahlt sich später aus. Der Vorstand wird sich frühestmöglich mit passenden Genossenschaftsverbänden und Partner-Genossenschaften ins Benehmen setzen und einen geeigneten Sitz für die Genossenschaft finden.
 
 Am 36c3 machen wir eine Raiffeisenparty, und am 2. Jänner 2020 fängt die Hacker eG (Arbeitstitel) an richtig zu leben.
+
+[Home](https://coop.therojam.space/wiki/Home)
