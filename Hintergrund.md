@@ -7,3 +7,5 @@ Leider hat die Bürokratie(tm) gewisse Anforderungen daran geknüpft, vorsätzli
 Auch aus anderen Gründen wäre es manchmal hilfreich, ein Unternehmen zu haben, das man veranlassen kann, für Arbeit und Projekte Geld anzunehmen und dafür sinnvolle Dinge zu tun, und sei es, einem Geld auszuzahlen. Bürokratiearm möglichst, als Lohn und/oder Gewinnbeteiligung. Ein Unternehmen, das einem auch mal hilft, wenn mal nur mal kurz ein Unternehmen braucht. Einen Container Hardware aus China zu verzollen zum Beispiel, wenn man den nunmal haben muss.
 
 Ein solches Unternehmen kann eine Genossenschaft sein, an der man selbst Anteile hält, in der man mitbestimmt oder jedenfalls vertrauenswürdige Individuen mitbestimmen lässt. Eine Genossenschaft, die einem Berater, Arbeitgeber, Dienstleister, Geldsammler, Plattform, Gemeinschaft ist. Je nachdem.
+
+[Home](https://coop.therojam.space/wiki/Home)
