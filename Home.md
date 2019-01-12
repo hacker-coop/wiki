@@ -19,7 +19,13 @@ Die Hacker eG (Arbeitstitel) auf Mastodon: [@HackerGeno@chaos.social](https://ch
 Invite für chaos.social hier: https://chaos.social/invite/NkKLsCB4 (gültig bis 19.1.)
 Bitte holt Euch hier einen Account, wenn Ihr nicht schon anderswo einen Mastodon-Account im Fediverse habt. Wir werden damit die nähere Zeit über viel kommunizieren!
 
-Unten werden laufend Informationsquellen nachgetragen. Auch An- und Rückfragen können an die o.a. Mailadresse gerichtet werden. 
+Unten werden laufend Informationsquellen nachgetragen. Die mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einwegkommunikation, Ihr werdet das sehen. Wenn es unbedingt eine Mail sein muss und das Forum oder Pad nicht reicht, schreibt mir sparsam und konzis an: geno-kontakt@damals-tm-podcast.de Sobald wir eine eigene Domain haben, hört die Podcastwerbung per maildomain auf...wir möchten dieses Projekt von Anfang an Datenvorbildlich aufziehen, daher keine Freemailadressen, keine GoogleDocsTabellen usw. Kein WhatsApp, kein Facebook. Klar. 
+
+Ich (ajuvo) freue mich auch über Telefonate, zu verabreden über Mastodon per DM.
+
+Es werden mehr Tondateien mit Informationen produziert werden, ich bin ja Podcaster.
+
+Betreibt $jemand von Euch einen mumble-Server? Dann bitte mal bei mir melden. (ajuvo)
 
 ## Nächste Aufgabe ist die Erstellung von FAQ (nur Fragen) durch Crowdsourcing, 
 bitte schreibt dazu hier hinein: [FAQ](https://coop.therojam.space/wiki/FAQ) 
@@ -49,7 +55,7 @@ und den SourceCode findest du hier: https://github.com/hacker-coop/35c3-Presenta
 
 ## Alte Videos 
 
-Der [@ajuvo](https://chaos.social/@ajuvo) hat man nen kleinen Talk auf Datenspuren 2017 gehalten und das kann man sich hier anschauen unter [media.ccc.de](https://media.ccc.de/v/DS2017-8659-hacker_eg) anschauen.
+Der [@ajuvo](https://chaos.social/@ajuvo) hat man nen kleinen Talk auf Datenspuren 2017 gehalten und das kann man sich hier anschauen unter [media.ccc.dehttps://coop.therojam.space/wiki/FAQ](https://media.ccc.de/v/DS2017-8659-hacker_eg) anschauen.
 Außerdem gibt es einen [Lightning Talk](https://media.ccc.de/v/34c3-9256-lightning_talks_day_2#t=2722) vom 34c3.
 
 
