@@ -16,8 +16,13 @@ Danke für die Beachtung aller Sicherheitshinweise.
 Hier gibt es eine kleine Sprachdatei mit Begrüßung und Erklärung: https://hybr.de/podcast/files/geno1.mp3
 
 Die Hacker eG (Arbeitstitel) auf Mastodon: [@HackerGeno@chaos.social](https://chaos.social/@HackerGeno)
-Invite für chaos.social hier: https://chaos.social/invite/NkKLsCB4 (gültig bis 19.1.)
-Bitte holt Euch hier einen Account, wenn Ihr nicht schon anderswo einen Mastodon-Account im Fediverse habt. Wir werden damit die nähere Zeit über viel kommunizieren!
+Invite für chaos.social hier: https://chaos.social/invite/caXyxMCs (gültig bis 19.1., begrenzte Menge!)
+
+Bitte holt Euch hier oder, wenn der Invite ausgenutzt ist, auf einer anderen Instanz einen Account. Wir werden damit die nähere Zeit über viel kommunizieren!
+
+Und noch eine Bitte: Die Macher von chaos.social brauchen Spenden, um die Instanz wachsen zu lassen, also  bitte hier ein paar Kleinbeträge abwerfen: 
+
+https://blog.chaos.social/2018/08/20/sparschwein-bericht.html
 
 Unten werden laufend Informationsquellen nachgetragen. Die mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einwegkommunikation, Ihr werdet das sehen. Wenn es unbedingt eine Mail sein muss und das Forum oder Pad nicht reicht, schreibt mir sparsam und konzis an: geno-kontakt@damals-tm-podcast.de Sobald wir eine eigene Domain haben, hört die Podcastwerbung per maildomain auf...wir möchten dieses Projekt von Anfang an Datenvorbildlich aufziehen, daher keine Freemailadressen, keine GoogleDocsTabellen usw. Kein WhatsApp, kein Facebook. Klar. 
 
