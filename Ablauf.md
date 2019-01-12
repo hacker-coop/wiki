@@ -22,7 +22,7 @@ Registrierung bleibt offen.
 + Kreativleistungen: Name, Logo, Infofolder, Webseite, Claim, CI, ... (Forum & Cryptpads
 
 
-+ Gründungsvereinsgründung, am Rande der GPN19 zB.; Kontoeröffnung, Geldeinzahlung; Beitrag 100 € 1 x; davon Deckung der Gründungs- und Vorbereitungskosten. 2 Vorstandsmitglieder reichen.Diese überwachen die Verwendung der eingezahlten Gelder. Es müssen hier nicht alles Mitglieder mitmahen, hauptsache wir sind 7+ ppl.
++ Gründungsvereinsgründung, am Rande der GPN19 zB.; Kontoeröffnung, Geldeinzahlung; Beitrag 100 € 1 x; davon Deckung der Gründungs- und Vorbereitungskosten. 2 Vorstandsmitglieder reichen.Diese überwachen die Verwendung der eingezahlten Gelder. Es müssen hier nicht alle Mitglieder mitmachen, hauptsache wir sind 7+ ppl.
 
 + Es bilden sich Kompetenz- und Interesssengruppen über das Forum
 ++Diese können dann direkt tätig werden.
