@@ -41,7 +41,7 @@ Genau wie bei Podcastern ist hier die gültige Währung nicht die Einmalspende, 
 
 Unten werden laufend Informationsquellen nachgetragen. Die mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einwegkommunikation, Ihr werdet das sehen. Wenn es unbedingt eine Mail sein muss und das Forum oder Pad nicht reicht, schreibt mir sparsam und konzis an: geno-kontakt@damals-tm-podcast.de Sobald wir eine eigene Domain haben, hört die Podcastwerbung per maildomain auf...wir möchten dieses Projekt von Anfang an Datenvorbildlich aufziehen, daher keine Freemailadressen, keine GoogleDocsTabellen usw. Kein WhatsApp, kein Facebook. Klar. 
 
-Ich (ajuvo) freue mich auch über Telefonate, zu verabreden über Mastodon per DM. @ajuvo@chaos.social 
+Ich (ajuvo) freue mich auch über Telefonate, zu verabreden über Mastodon per DM. @ajuvo @chaos.social 
 
 Es werden mehr Tondateien mit Informationen produziert werden, ich bin ja Podcaster; die nächste in etwa einer Woche.
 
