@@ -5,7 +5,7 @@ Dies ist die  nichtöffentliche Infoseite zur
 ## Hackergenossenschaft "Franz Nord" eG i.G. (Arbeitstitel)
 im folgenden "Hacker eG" genannt
 
-
+>>> Wasserstand: 150 Interessenten 
 
 Interessenten werden gebeten, sich mit einer leeren e-mail mit dem Betreff "Interesse" an diese Mailadresse zu wenden:
 
