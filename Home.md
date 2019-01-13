@@ -32,7 +32,7 @@ Und noch eine Bitte: Die Macher von chaos.social brauchen Spenden, um die Instan
 
 https://blog.chaos.social/2018/08/20/sparschwein-bericht.html
 
-Genau wie bei Podcastern ist hier die gültige Währung nicht die Einmalspende, sonder der Dauerauftrag per paypal oder besser SEPA über 0,5-3€ einmal pro Monat; fragt ggf. per DM @leah@chaos.social nach Zahlungsdaten, sagt, dass Ihr von der Hacker eG kommt. 
+Genau wie bei Podcastern ist hier die gültige Währung nicht die Einmalspende, sonder der Dauerauftrag per paypal oder besser SEPA über 0,5-3€ einmal pro Monat; fragt ggf. per DM bei @leah @chaos.social nach Zahlungsdaten, sagt, dass Ihr von der Hacker eG kommt. 
 
 ---
 
