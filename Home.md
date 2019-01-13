@@ -20,13 +20,16 @@ Hier gibt es eine kleine Sprachdatei mit Begrüßung und Erklärung: https://hyb
 Die Hacker eG (Arbeitstitel) auf Mastodon: [@HackerGeno@chaos.social](https://chaos.social/@HackerGeno)
 
 ---
+ajuvo wird auf der HIP https://hackimpott.de sein; evtl. wird es einen kleinen Hacker eG - Infotalk oder Workshop geben.
 
-*Invites für chaos.social* sind auf deren Wunsch vorerst aus, aber jedes chaos.social - member kann einen einmal gültigen Invite generieren. Fragt also bei Euch bekannten Chaoten, die auf chaos.social sind, nach.
+- - -
+
+**Invites für chaos.social** sind auf deren Wunsch vorerst aus, aber jedes chaos.social - member kann einen einmal gültigen Invite generieren. Fragt also bei Euch bekannten Chaoten, die auf chaos.social sind, nach.
 
 Ein Mastodon-Account auf anderen Instanzen funktioniert genauso gut. 
 Ein Verzeichnis von Instanzen findet Ihr auf instances.social 
 
-Folgt dann @HackerGeno@chaos.social
+Folgt dann @ HackerGeno @chaos.social
 
 Und noch eine Bitte: Die Macher von chaos.social brauchen Spenden, um die Instanz wachsen zu lassen, neue chaos.social - Member also bitte hier ein paar Kleinbeträge abwerfen 
 
