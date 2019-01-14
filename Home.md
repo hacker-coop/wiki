@@ -1,26 +1,49 @@
-# Herzlich Willkommen!
+## Herzlich Willkommen!
 
 Dies ist die  nichtöffentliche Infoseite zur 
 
 ## Hackergenossenschaft "Franz Nord" eG i.G. (Arbeitstitel)
 im folgenden "Hacker eG" genannt
 
->>> Wasserstand: 150 Interessenten 
+
+Hier gibt es eine kleine Sprachdatei mit Begrüßung und Erklärung: https://hybr.de/podcast/files/geno1.mp3
+
+Die Hacker eG (Arbeitstitel) auf Mastodon: Hier werden aktuelle Hinweise, auch auf Änderung auf diesem Board gegeben, bitte folgen:
+
+[@HackerGeno@chaos.social](https://chaos.social/@HackerGeno)
+
+Infos für noch accountlose Interessenten siehe unten.
+
+# Wasserstand: 160 Interessenten 
+
+*Revisionsstand: 14.1.19 15.44 h
 
 Interessenten werden gebeten, sich mit einer leeren e-mail mit dem Betreff "Interesse" an diese Mailadresse zu wenden:
 
 geno@damals-tm-podcast.de
 
+## Aktuelle Neuigkeiten
+
+Schreibt gerne mails an Leute aus dem Chaos, die Eurer Meinung nach mitmachen sollen, gebt Ihnen diese Mailadresse, Instruktion zur Benutzung und den Link zum 35c3-Video.
+
+**Die Mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einwegkommunikation** 
+
+Wir werden in ca. 1-2 Wochen ein internes Forum eröffnen, um den Themen - Dialog zu beginnen. Bis dahin sammeln wir noch Interessenten. Wenn bis dahin etwas nicht per Mastodon-DM zu klären ist, schreibt bitte zeichensparsam, mit Betreff "Feedback: $Thema", und konzis an: geno-kontakt@damals-tm-podcast.de Falls Ihr wichtige Dinge an geno@ geschrieben habt, die keine Registrierung waren, bitte nochmal Kopie an geno-kontakt@ , wenn es denn immer noch sehr wichtig ist.
+
+Danke für alle Beiträge im FAQ-Pad (siehe unten), wir werden im Laufe der Woche daraus FAQs machen und hier auf einer eigenen Unterseite veröffentlichen.
+
+Dieses "Wiki" dient weiter als internes Schwarzes Brett, also zur Bekanntmachung von Informationen und Aufforderungen zum konkreten Mitmachen (mit Link und Instruktion).
+
 Danke für die Beachtung aller Sicherheitshinweise.
 
-Revisiosstand: 13.1.19 23.42 h 
+ 
 
-Hier gibt es eine kleine Sprachdatei mit Begrüßung und Erklärung: https://hybr.de/podcast/files/geno1.mp3
-
-Die Hacker eG (Arbeitstitel) auf Mastodon: [@HackerGeno@chaos.social](https://chaos.social/@HackerGeno)
 
 ---
 ajuvo wird auf der HIP https://hackimpott.de sein; evtl. wird es einen kleinen Hacker eG - Infotalk oder Workshop geben.
+- - -
+
+### Betreibt $jemand von Euch einen mumble-Server? Dann bitte mal bei mir melden. (ajuvo)
 
 - - -
 
@@ -39,13 +62,14 @@ Genau wie bei Podcastern ist hier die gültige Währung nicht die Einmalspende, 
 
 ---
 
-Unten werden laufend Informationsquellen nachgetragen. Die mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einwegkommunikation, Ihr werdet das sehen. Wenn es unbedingt eine Mail sein muss und das Forum oder Pad nicht reicht, schreibt mir sparsam und konzis an: geno-kontakt@damals-tm-podcast.de Sobald wir eine eigene Domain haben, hört die Podcastwerbung per maildomain auf...wir möchten dieses Projekt von Anfang an Datenvorbildlich aufziehen, daher keine Freemailadressen, keine GoogleDocsTabellen usw. Kein WhatsApp, kein Facebook. Klar. 
+Unten werden laufend Informationsquellen nachgetragen. 
+
+Sobald wir eine eigene Domain haben, hört die Podcastwerbung per maildomain auf...wir möchten dieses Projekt von Anfang an datenvorbildlich aufziehen, daher keine Freemailadressen, keine GoogleDocsTabellen usw. Kein WhatsApp, kein Facebook. Klar. 
 
 Ich (ajuvo) freue mich auch über Telefonate, zu verabreden über Mastodon per DM. @ajuvo @chaos.social 
 
 Es werden mehr Tondateien mit Informationen produziert werden, ich bin ja Podcaster; die nächste in etwa einer Woche.
 
-### Betreibt $jemand von Euch einen mumble-Server? Dann bitte mal bei mir melden. (ajuvo)
 
 ## Nächste Aufgabe ist die Erstellung von FAQ (nur Fragen) durch Crowdsourcing, 
 bitte schreibt dazu hier hinein: [FAQ](https://coop.therojam.space/wiki/FAQ) 
