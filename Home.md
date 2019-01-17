@@ -14,9 +14,9 @@ Die Hacker eG (Arbeitstitel) auf Mastodon: Hier werden aktuelle Hinweise, auch a
 
 Infos für noch accountlose Interessenten siehe unten.
 
-# Wasserstand: 160 Interessenten 
+# Wasserstand: 170 Interessenten 
 
-*Revisionsstand: 14.1.19 15.44 h
+*Revisionsstand: 17.1.19 22.44 h
 
 Interessenten werden gebeten, sich mit einer leeren e-mail mit dem Betreff "Interesse" an diese Mailadresse zu wenden:
 
@@ -30,7 +30,7 @@ Schreibt gerne mails an Leute aus dem Chaos, die Eurer Meinung nach mitmachen so
 
 Wir werden in voraussichtlich ca. 1-2 Wochen ein internes Forum eröffnen, um den Themen - Dialog zu beginnen. Bis dahin sammeln wir noch Interessenten. Wenn bis dahin etwas nicht per Mastodon-DM zu klären ist, schreibt bitte zeichensparsam, mit Betreff "Feedback: $Thema", und konzis an: geno-kontakt@damals-tm-podcast.de Falls Ihr wichtige Dinge an geno@ geschrieben habt, die keine Registrierung waren, bitte nochmal Kopie an geno-kontakt@ , wenn es denn immer noch sehr wichtig ist.
 
-Danke für alle Beiträge im FAQ-Pad (siehe unten), wir werden im Laufe der Woche daraus FAQs machen und hier auf einer eigenen Unterseite veröffentlichen.
+Danke für alle Beiträge im FAQ-Pad (siehe unten), wir werden im Laufe der nächsten Zeit daraus FAQs machen und hier auf einer eigenen Unterseite veröffentlichen.
 
 Dieses "Wiki" dient weiter als internes Schwarzes Brett, also zur Bekanntmachung von Informationen und Aufforderungen zum konkreten Mitmachen (mit Link und Instruktion).
 
