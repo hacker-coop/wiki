@@ -43,9 +43,6 @@ Danke für die Beachtung aller Sicherheitshinweise.
 ajuvo wird auf der HIP https://hackimpott.de sein; evtl. wird es einen kleinen Hacker eG - Infotalk oder Workshop geben.
 - - -
 
-### Betreibt $jemand von Euch einen mumble-Server? Dann bitte mal bei mir melden. (ajuvo)
-
-- - -
 
 **Invites für chaos.social** sind auf deren Wunsch vorerst aus, aber jedes chaos.social - member kann einen einmal gültigen Invite generieren. Fragt also bei Euch bekannten Chaoten, die auf chaos.social sind, nach.
 
