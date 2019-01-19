@@ -16,7 +16,7 @@ Infos für noch accountlose Interessenten siehe unten.
 
 # Wasserstand: 170 Interessenten 
 
-*Revisionsstand: 17.1.19 22.44 h
+*Revisionsstand: 19.1.19 17.44 h
 
 Interessenten werden gebeten, sich mit einer leeren e-mail mit dem Betreff "Interesse" an diese Mailadresse zu wenden:
 
@@ -30,9 +30,9 @@ Schreibt gerne mails an Leute aus dem Chaos, die Eurer Meinung nach mitmachen so
 
 Wir werden in voraussichtlich ca. 1-2 Wochen ein internes Forum eröffnen, um den Themen - Dialog zu beginnen. Bis dahin sammeln wir noch Interessenten. Wenn bis dahin etwas nicht per Mastodon-DM zu klären ist, schreibt bitte zeichensparsam, mit Betreff "Feedback: $Thema", und konzis an: geno-kontakt@damals-tm-podcast.de Falls Ihr wichtige Dinge an geno@ geschrieben habt, die keine Registrierung waren, bitte nochmal Kopie an geno-kontakt@ , wenn es denn immer noch sehr wichtig ist.
 
-Danke für alle Beiträge im FAQ-Pad (siehe unten), wir werden im Laufe der nächsten Zeit daraus FAQs machen und hier auf einer eigenen Unterseite veröffentlichen.
+Das FAQ-Pad wurde geschlossen und wird jetzt verarbeitet.
 
-Dieses "Wiki" dient weiter als internes Schwarzes Brett, also zur Bekanntmachung von Informationen und Aufforderungen zum konkreten Mitmachen (mit Link und Instruktion).
+Dieses "Wiki" hier dient weiter als internes Schwarzes Brett, also zur Bekanntmachung von Informationen und Aufforderungen zum konkreten Mitmachen (mit Link und Instruktion). Bitte gelegentlich hier nachsehen, auch auf Ansage per Mastodon.
 
 Danke für die Beachtung aller Sicherheitshinweise.
 
@@ -68,12 +68,8 @@ Ich (ajuvo) freue mich auch über Telefonate, zu verabreden über Mastodon per D
 Es werden mehr Tondateien mit Informationen produziert werden, wir sind ja Podcaster; die nächste in etwa einer Woche. Essentielle Infos werden immer auch hier als Text publiziert, man muss also nicht immer zeitnah alle mp3-Dateien abhören.
 
 
-## Aktuelle Mitmach - Aufgabe ist die Erstellung von FAQ (nur Fragen) durch Crowdsourcing, 
-bitte schreibt dazu hier hinein: [FAQ](https://coop.therojam.space/wiki/FAQ) 
-
 In den nächsten Wochen erhalten alle Registrierten eine mail mit mehr Infos, hier wird mehr hereingekippt worden sein, und ein Forum (Werkzeugdiskussion...) wird aufgemacht worden sein, so dass wir strukturiert unsere Entscheidungen bilden können.
 
-Weiteres unten unter "Ablauf".
 
 # Inhaltliches
 
