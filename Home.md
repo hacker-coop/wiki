@@ -47,7 +47,7 @@ ajuvo wird auf der HIP https://hackimpott.de sein; evtl. wird es einen kleinen H
 **Invites für chaos.social** sind auf deren Wunsch vorerst aus, aber jedes chaos.social - member kann einen einmal gültigen Invite generieren. Fragt also bei Euch bekannten Chaoten, die auf chaos.social sind, nach.
 
 Ein Mastodon-Account auf anderen Instanzen funktioniert genauso gut. 
-Ein Verzeichnis von Instanzen findet Ihr auf instances.social 
+Ein Verzeichnis von Instanzen findet Ihr auf http://instances.social oder https://joinmastodon.org/
 
 Folgt dann @ HackerGeno @chaos.social
 
