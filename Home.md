@@ -14,11 +14,11 @@ Die Hacker eG (Arbeitstitel) auf Mastodon: Hier werden aktuelle Hinweise, auch a
 
 Infos für noch accountlose Interessenten siehe unten.
 
-# Wasserstand: 170 Interessenten 
+# Wasserstand: 180 Interessenten 
 
-*Revisionsstand: 19.1.19 17.44 h
+*Revisionsstand: 31.1.19 00.44 h
 
-Interessenten werden gebeten, sich mit einer leeren e-mail mit dem Betreff "Interesse" an diese Mailadresse zu wenden:
+Interessenten werden weiterhin gebeten, sich mit einer leeren e-mail mit dem Betreff "Interesse" an diese Mailadresse zu wenden:
 
 geno@damals-tm-podcast.de
 
@@ -26,11 +26,14 @@ geno@damals-tm-podcast.de
 
 Schreibt gerne mails an Leute aus dem Chaos, die Eurer Meinung nach mitmachen sollen, gebt Ihnen diese Mailadresse, Instruktion zur Benutzung und den Link zum 35c3-Video.
 
-**Die Mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einwegkommunikation** 
+**Die Mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einwegkommunikation und der Anmeldung als Interessent/in** 
 
-Wir werden in voraussichtlich ca. 1-2 Wochen ein internes Forum eröffnen, um den Themen - Dialog zu beginnen. Bis dahin sammeln wir noch Interessenten. Wenn bis dahin etwas nicht per Mastodon-DM zu klären ist, schreibt bitte zeichensparsam, mit Betreff "Feedback: $Thema", und konzis an: geno-kontakt@damals-tm-podcast.de Falls Ihr wichtige Dinge an geno@ geschrieben habt, die keine Registrierung waren, bitte nochmal Kopie an geno-kontakt@ , wenn es denn immer noch sehr wichtig ist.
+In wenigen Tagen erscheinen die ersten FAQs hier im Wiki, und es folgen Instruktionen zur Benutzung unseres internen Diskussionsforums 
 
-Das FAQ-Pad wurde geschlossen und wird jetzt verarbeitet.
+Wenn etwas nicht per Mastodon-DM zu klären ist, schreibt bitte zeichensparsam, mit Betreff "Feedback: $Thema", an 
+
+geno-kontakt@damals-tm-podcast.de 
+
 
 Dieses "Wiki" hier dient weiter als internes Schwarzes Brett, also zur Bekanntmachung von Informationen und Aufforderungen zum konkreten Mitmachen (mit Link und Instruktion). Bitte gelegentlich hier nachsehen, auch auf Ansage per Mastodon.
 
