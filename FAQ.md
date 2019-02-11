@@ -111,20 +111,30 @@ Aber vor allem brauchen wir Leute, die Ihre Kenntnisse und Erfahrungen der Genos
 
 Hier. Und im Forum.
 
-**aktuell: Wir suchen $jemanden, der uns eine discourse-Instanz aufsetzen, hosten und administrieren kann. Bitte melden**
+**aktuell: Wir suchen $jemanden, der uns eine discourse-Instanz (https://discourse.org/about) aufsetzen, hosten und administrieren kann. Bitte melden**
 
 
 ## Kann ich bei der Genossenschaft arbeiten?
 
+Ja. Wenn Du der Genossenschaft Einnahmen verschaffst, kannst Du entsprechend von Ihr Lohn beziehen, als Arbeitnehmer. Du musst ein Teil des Geldes der Genossenschaft abgeben, und sparst Dir dafür die Mühsal des Unternehmerdaseins. 
 
-....tbc
+## Warum sollte die Hacker eG nicht Hacker eG heißen?
 
-# Warum sollte die Hacker eG nicht Hacker eG heißen?
+Weil wir dann auf jeder Greylist landen, und die Aufmerksamkeit von Strafverfolgern auf uns ziehen. Das darf nur der Inoffizielle Name sein.https://discourse.org/about
+
+So wie in Dune: Markantile Allianz zur Förderung der Interstellaren Astronautik: M.A.F.I.A.
+
+Also: H.A.C.K.E.R. = ? 
+
+Und Chaos darf auch nicht vorkommen. Das widerspricht den Grundsätzen des Clubs. 
+
+
 ## Wie soll die Genossenschaft denn heißen?
+
+Das diskutieren wir im Forum.
+
 ### Hat sie schon ein Logo?
 
-# Ich habe ein kleines Projekt, das Kleingeld abwirft, das will ich der Genossenschaft geben. Wie geht das?
+Noch nicht so richtig. Es gab mal einen Vorschlag. Bitte im Forum posten.
 
-....bitte fortsetzen, behutsam mergen und sortieren.
-
-[Home](https://coop.therojam.space/wiki/Home)
+...to be continued....
