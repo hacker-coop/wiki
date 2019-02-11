@@ -23,7 +23,7 @@ Infos für noch accountlose Interessenten siehe unten.
 *Revisionsstand: 11.2.19
 
 Interessenten werden weiterhin gebeten, sich mit einer leeren e-mail mit dem Betreff "Interesse" an diese Mailadresse zu wenden:
-https://hybr.de/podcast/files/geno1.mp3
+
 geno@damals-tm-podcast.de
 
 ## Aktuelle Neuigkeiten
