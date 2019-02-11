@@ -3,10 +3,14 @@
 Dies ist die  nichtöffentliche Infoseite zur 
 
 ## Hackergenossenschaft "Franz Nord" eG i.G. (Arbeitstitel)
-im folgenden "Hacker eG" genannt
+im folgenden "Hacker eG" genannt (Namensfindungsforum im Forum, siehe unten)
 
 
 Hier gibt es eine kleine Sprachdatei mit Begrüßung und Erklärung: https://hybr.de/podcast/files/geno1.mp3
+
+**Aktuelle Updates und Hintergründe wird es in kürze hier geben: **
+
+https://hybr.de/podcast/files/geno2.mp3
 
 Die Hacker eG (Arbeitstitel) auf Mastodon: Hier werden aktuelle Hinweise, auch auf Änderungen auf diesem Board gegeben, bitte folgen:
 
@@ -19,7 +23,7 @@ Infos für noch accountlose Interessenten siehe unten.
 *Revisionsstand: 11.2.19
 
 Interessenten werden weiterhin gebeten, sich mit einer leeren e-mail mit dem Betreff "Interesse" an diese Mailadresse zu wenden:
-
+https://hybr.de/podcast/files/geno1.mp3
 geno@damals-tm-podcast.de
 
 ## Aktuelle Neuigkeiten
@@ -28,9 +32,9 @@ Schreibt gerne mails an Leute aus dem Chaos, die Eurer Meinung nach mitmachen so
 
 Die Mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einwegkommunikation und der Anmeldung als Interessent/in .
 
-Es gibt neue FAQs: https://coop.therojam.space/wiki/FAQ - bitte lesen!
+Es gibt neue FAQs: https://coop.therojam.space/wiki/FAQ - bitte lesen! Es werden mehr werden.
 
-Wir haben ein internes Diskussionsforum!
+Wir haben ein internes Diskussionsforum! Lesen und Schreiben!
 
 hier: https://coop.therojam.tech/index.php
 
