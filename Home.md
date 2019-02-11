@@ -8,7 +8,7 @@ im folgenden "Hacker eG" genannt (Namensfindungsforum im Forum, siehe unten)
 
 Hier gibt es eine kleine Sprachdatei mit Begrüßung und Erklärung: https://hybr.de/podcast/files/geno1.mp3
 
-**Aktuelle Updates und Hintergründe wird es in kürze hier geben: **
+**Aktuelle Updates und Hintergründe hier: **
 
 https://hybr.de/podcast/files/geno2.mp3
 
