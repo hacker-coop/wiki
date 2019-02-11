@@ -14,9 +14,9 @@ Die Hacker eG (Arbeitstitel) auf Mastodon: Hier werden aktuelle Hinweise, auch a
 
 Infos für noch accountlose Interessenten siehe unten.
 
-# Wasserstand: 180 Interessenten 
+# Wasserstand: 200 Interessenten !
 
-*Revisionsstand: 31.1.19 00.44 h
+*Revisionsstand: 11.2.19
 
 Interessenten werden weiterhin gebeten, sich mit einer leeren e-mail mit dem Betreff "Interesse" an diese Mailadresse zu wenden:
 
@@ -26,9 +26,16 @@ geno@damals-tm-podcast.de
 
 Schreibt gerne mails an Leute aus dem Chaos, die Eurer Meinung nach mitmachen sollen, gebt Ihnen diese Mailadresse, Instruktion zur Benutzung und den Link zum 35c3-Video.
 
-**Die Mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einwegkommunikation und der Anmeldung als Interessent/in** 
+Die Mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einwegkommunikation und der Anmeldung als Interessent/in .
 
-In wenigen Tagen erscheinen die ersten FAQs hier im Wiki, und es folgen Instruktionen zur Benutzung unseres internen Diskussionsforums 
+Es gibt neue FAQs: https://coop.therojam.space/wiki/FAQ - bitte lesen!
+
+Wir haben ein internes Diskussionsforum!
+
+hier: https://coop.therojam.tech/index.php
+
+** es ist ein htaccess davor, die Zugangsdaten erhaltet Ihr per Mail an die Adresse, mit der Ihr Euch angemeldet habt.
+Bitte klickt Euch dort einen Account und schreibt dort mit! Guckt hier und im Forum die nächsten Tage und Wochen regelmäßig nach**
 
 Wenn etwas nicht per Mastodon-DM zu klären ist, schreibt bitte zeichensparsam, mit Betreff "Feedback: $Thema", an 
 
@@ -44,6 +51,8 @@ Danke für die Beachtung aller Sicherheitshinweise.
 
 ---
 ajuvo wird auf der HIP https://hackimpott.de sein; evtl. wird es einen kleinen Hacker eG - Infotalk oder Workshop geben.
+
+Ebenso auf dem Easterhegg und auf der GPN. 
 - - -
 
 
@@ -68,10 +77,9 @@ Sobald wir eine eigene Domain haben, hört die Podcastwerbung per maildomain auf
 
 Ich (ajuvo) freue mich auch über Telefonate, zu verabreden über Mastodon per DM. @ajuvo @chaos.social 
 
-Es werden mehr Tondateien mit Informationen produziert werden, wir sind ja Podcaster; die nächste in etwa einer Woche. Essentielle Infos werden immer auch hier als Text publiziert, man muss also nicht immer zeitnah alle mp3-Dateien abhören.
+Es werden mehr Tondateien mit Informationen produziert werden.
 
 
-In den nächsten Wochen erhalten alle Registrierten eine mail mit mehr Infos, hier wird mehr hereingekippt worden sein, und ein Forum (Werkzeugdiskussion...) wird aufgemacht worden sein, so dass wir strukturiert unsere Entscheidungen bilden können.
 
 
 # Inhaltliches
