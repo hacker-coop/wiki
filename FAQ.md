@@ -80,7 +80,7 @@ Man muss also unterscheiden zwischen der Zeichnung und Einzahlung von Genossensc
 
 Das Geschäftsguthaben ist Eigenkapital in der Bilanz der eG, und man erhält es bei Austritt aus der Genossenschaft nach einiger Zeit zurück (abzüglich evtl. Verlustanteile). Gewinne der Genossenschaft werden entweder von dieser als Kapitalrücklage einbehalten oder als Dividende an die Mitglieder nach Höhe ihres Geschäftsguthabens ausgeschüttet. 
 
-Die Satzung kann und wird vorsehen, dass Mitglieder, welche die Genossenschaft besonders stark nutzen oder hohe Umsätze mit ihr machen, eine gewisse Mindeszahl an Anteilen zu zeichnen haben.
+Die Satzung kann und wird vorsehen, dass Mitglieder, welche die Genossenschaft besonders stark nutzen oder hohe Umsätze mit ihr machen, eine gewisse Mindestzahl an Anteilen zu zeichnen haben.
 
 Man muss das Geschäftsguthaben nicht auf einmal einzahlen, Ratenzahlung ist möglich. Beispiel: Geschäftsguthaben 100€/Anteil, Zahlung in 5 Monatsraten bis Jahresende.
 
