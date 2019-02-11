@@ -137,4 +137,9 @@ Das diskutieren wir im Forum.
 
 Noch nicht so richtig. Es gab mal einen Vorschlag. Bitte im Forum posten.
 
+## Wer bekommt denn mit, dass ich Mitglied in der Hacker eG bin?
+
+Ganz bestimmt das Registergericht (wenn auch nicht sehr aktuell), der Prüfer des Genossenschaftsverbandes und das Finanzamt.
+
+
 ...to be continued....
