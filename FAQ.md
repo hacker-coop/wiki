@@ -25,9 +25,9 @@ Parallel dazu wird in den nächsten Wochen der Gründungsverein eingetragen und 
 
 Sobald ein genügender Konsens hergestellt scheint, voraussichtlich im April, kommt es zum entscheidenden Schritt:
 
-Alle Interessenden erhalten per mail und .pdf an die mailadresse, mit der sie sich angemeldet haben, ein Beitrittsformular, die Satzung des Gründungsvereins, eine Verpflichtungserklärung und einen Fragebogen. Mehr dazu später unten.
+Alle Interessenten erhalten per mail und .pdf an die mailadresse, mit der sie sich angemeldet haben, ein Beitrittsformular, die Satzung des Gründungsvereins, eine Verpflichtungserklärung und einen Fragebogen. Mehr dazu später unten.
 
-Dies geschieht rechtssicher und datensparsam mittels Papertrail, per Schneckenpost.
+Die Rückmeldung geschieht rechtssicher und datensparsam mittels Papertrail, per Schneckenpost.
 
 Wenn innerhalb einer definierten Frist genügend Interessenten Ihren Beitritt erklärt und Ihren Beitrag geleistet haben, wird der formale Gründungsprozess der Genossenschaft in Gang gesetzt. Dies beginnt mit juristischer Beratung und Dialog mit Genossenschaftsverbänden, Rechtsanwalt und Steuerberater.
 
@@ -43,7 +43,7 @@ Parallel gehen die rechtlichen und steuerlichen Abklärungen sowie die juristisc
 
 - Gründungs-Generalversammlung
 
-Diese soll in feierlichem Rahmen (nicht alle müssen teilnehmen, man kann auch gleich danach schriftliche beitreten) vor Jahresende stattfinden, so dass möglichst zum 36c3 gefeiert und zum 2.1.20 der Geschäftsbetrieb aufgenommen werden kann. Dazu ist die Eintragung ins Genossenschaftsregister nach Prüfung durch den Genossenschaftsverband abzuwarten.
+Diese soll in feierlichem Rahmen (nicht alle müssen teilnehmen, man kann auch gleich danach schriftlich beitreten) vor Jahresende stattfinden, so dass möglichst zum 36c3 gefeiert und zum 2.1.20 der Geschäftsbetrieb aufgenommen werden kann. Dazu ist die Eintragung ins Genossenschaftsregister nach Prüfung durch den Genossenschaftsverband abzuwarten.
 
 
 # Was ist eine Genossenschaft
@@ -101,7 +101,7 @@ Nein, musst Du nicht. Sollst Du aber, wenn Du kannst und Deine Fähigkeiten gera
 
 # Was brauchen wir denn alles so an Dingen und Fähigkeiten in der Genossenschaft? Jetzt und später?
 
-Aber ganz im Ernst, wir brauchen Mitglieder, die helfen, unseren Genossenschaft zu bauen. Coden, administrieren, hosten, testen; juristische und steuerliche Texte verfassen; Werbung, CI und Auftritt gestalten, usw.
+Aber ganz im Ernst, wir brauchen Mitglieder, die helfen, unsere Genossenschaft zu bauen. Coden, administrieren, hosten, testen; juristische und steuerliche Texte verfassen; Werbung, CI und Auftritt gestalten, usw.
 
 Wir brauchen auch ehrenamtliches Personal. Evtl. mit kleiner Aufwandsentschädigung. 2 Vorstände, und zwar Leute, die Erfahrung als Unternehmer/in haben. 3 Aufsichtsräte, die z.B. Rechtsanwalt, Steuerberater (a.D.), Diplomkaufmann sind. 1 Geschäftsführer/in, gern Steuerfachgehilfe oder Reno-Gehilfe (mit Minijob) für initial 5-10 h Adminzeit/Woche.
 
@@ -116,7 +116,7 @@ Hier. Und im Forum.
 
 ## Kann ich bei der Genossenschaft arbeiten?
 
-Ja. Wenn Du der Genossenschaft Einnahmen verschaffst, kannst Du entsprechend von Ihr Lohn beziehen, als Arbeitnehmer. Du musst ein Teil des Geldes der Genossenschaft abgeben, und sparst Dir dafür die Mühsal des Unternehmerdaseins. 
+Ja. Wenn Du der Genossenschaft Einnahmen verschaffst, kannst Du entsprechend von Ihr Lohn beziehen, als Arbeitnehmer. Du musst einen Teil des Geldes der Genossenschaft abgeben, und sparst Dir dafür die Mühsal des Unternehmerdaseins. 
 
 ## Warum sollte die Hacker eG nicht Hacker eG heißen?
 
