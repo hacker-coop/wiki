@@ -44,14 +44,29 @@ Diese soll in feierlichem Rahmen (nicht alle müssen teilnehmen, man kann auch g
 
 
 # Was ist eine Genossenschaft
-## Was soll die Genossenschaft tun?
+
+[https://de.wikipedia.org/wiki/Genossenschaft](https://de.wikipedia.org/wiki/Genossenschaft)
+
+### Was soll die Genossenschaft tun?
+
+siehe Forum
+
 ### Wer soll Mitglied der Genossenschaft werden?
+
+Jede/r, der die Idee gut findet, unabhängig davon, ob er sie aktuell braucht. Wir brauchen Unterstützer. Es wird nicht viel kosten, Genosse zu sein, for the fame and karma. 100 passive member, die 23,42/mon Beitrag zahlen und 100 Euro Anteil zeichnen, bringen 10000 € Eigenkapital und decken die Fixkosten für Büro und Geschäftsführer/in/*.
+
 ### Welchen Nutzen habe ich von der Genossenschaft?
 
+Du hast ein Unternehmen, das auch Dir gehört, und das Dir hilft, wenn Du es brauchst. Mehr unter "Produkte" im Forum.
 
 # Wie wird die Gründung finanziert und die Genossenschaft mit dem nötigen Kapital ausgestattet?
 
+Die Vorbereitung einer Genossenschaftsgründung kostet relativ viel Geld. Dies wird dadurch aufgebracht, dass ein Gründungsverein von jedem zukünftigen Genossen einen Einmalbeitrag erhebt (100 €), von dem Rechtsanwalt, Steuerberater, Prüfungsverband, Registergericht bezahlt werden, ein physisch existierendes Büro gemietet, eine Vorbereitungstagung und diverse inhaltliche und technische Vorbereitungsarbeiten bezahlt werden. Was übrig bleibt, bekommt die Genossenschaft.
+
 ## Was kostet mich die Gründung und die Mitgliedschaft?
+
+
+
 
 ## Muss ich Arbeitsleistungen erbringen?
 
