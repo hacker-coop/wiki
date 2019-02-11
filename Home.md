@@ -92,7 +92,6 @@ Auf der Seite "Hintergrund" werden kurz die $Gründe dahinter dargestellt:
 
 [Hintergrund](https://coop.therojam.space/wiki/Hintergrund)
 
-[Ablauf](https://coop.therojam.space/wiki/Ablauf)
 
 
 # Der Vortrag vom #35c3 ist hier:
