@@ -34,7 +34,7 @@ Die Mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einweg
 
 Es gibt neue FAQs: https://coop.therojam.space/wiki/FAQ - bitte lesen! Es werden mehr werden.
 
-Wir haben ein internes Diskussionsforum! Lesen und Schreiben!
+**Wir haben ein internes Diskussionsforum! Lesen und Schreiben!**
 
 hier: https://coop.therojam.tech/index.php
 
