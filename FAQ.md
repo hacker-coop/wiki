@@ -120,7 +120,7 @@ Ja. Wenn Du der Genossenschaft Einnahmen verschaffst, kannst Du entsprechend von
 
 ## Warum sollte die Hacker eG nicht Hacker eG heißen?
 
-Weil wir dann auf jeder Greylist landen, und die Aufmerksamkeit von Strafverfolgern auf uns ziehen. Das darf nur der Inoffizielle Name sein.https://discourse.org/about
+Weil wir dann auf jeder Greylist landen, und die Aufmerksamkeit von Strafverfolgern auf uns ziehen. Das darf nur der Inoffizielle Name sein.
 
 So wie in Dune: Markantile Allianz zur Förderung der Interstellaren Astronautik: M.A.F.I.A.
 
