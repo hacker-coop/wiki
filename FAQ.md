@@ -1,18 +1,5 @@
 FAQ
 
-to be crowdsourced!
-Hier stehen später die Ergebnisse.
-
-Die Arbeit findet in einem Cryptpad statt, diesem: https://pads.c3w.at/pad/#/2/pad/edit/5oUwFZI9xVC2xDc4hKXplMlw/p/
-
-Das Passwort ist "Genossenschaft23"
-
-In dieses Pad bitte nur Fragen eintragen, gruppieren, redigieren, hierarchisch ordnen, damit sie konsistent sind und vom Orgateam zeitnah beantwortet werden können.
-
--------------------------------------------------------------------
-vvv ab hier nichts schreiben, vorläufig VVV
-
-v0.1 (180111)
 
 # Was ist eine Genossenschaft
 ## Was soll die Genossenschaft tun?
