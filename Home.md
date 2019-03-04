@@ -10,6 +10,12 @@ Hier gibt es eine kleine Sprachdatei mit Begrüßung und Erklärung: https://hyb
 
 **Aktuelle Updates und Hintergründe hier: **
 
+ajuvos kleiner Genossenschaftsblog
+
+https://coop.therojam.space/wiki/ajuvos-kleiner-Genossenschaftsblog
+
+Aktuelle Tondatei:
+
 https://hybr.de/podcast/files/geno2.mp3
 
 Die Hacker eG (Arbeitstitel) auf Mastodon: Hier werden aktuelle Hinweise, auch auf Änderungen auf diesem Board gegeben, bitte folgen:
