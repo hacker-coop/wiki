@@ -6,4 +6,8 @@ Lieben Dank und liebe Grüße
 ajuvo*
 
 
-#Gründungsförderverein gegründet
+## Gründungsförderverein gegründet
+
+Letzte Woche haben ein paar ortanwesende Chaoten in Dresden einen einzutragenden, nicht gemeinnützigen Verein gegründet. Er hört auf den schönen Namen
+
+Verein zur Erschließung neuer Betätigungsformen in der Informationstechnologie e.V.
