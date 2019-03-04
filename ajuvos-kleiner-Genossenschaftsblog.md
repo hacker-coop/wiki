@@ -28,4 +28,4 @@ Der Verein wird noch einige Wochen brauchen, bis er im Register steht und ein Ko
 
 Bis dahin, und darüber hinaus, geht das Informieren, Ideengenerieren, Fragenklären und Gründungsinteressentensammeln weiter; hier, im Forum, F2F am Rande des allgemeinen und speziellen Chaos.
 
-Wenn der Verein fertig installiert ist und eingenügender Informationsstand besteht, geht es an den entscheidenden Schritt: Den Schritt vom unverbindlichen, ggf. anonymen Interessenten zum verbindlich verpflichteten, namentlich bekannten (gegebenenfalls pseudonymen) und mitbestimmungsberechtigten Gründer.
+Wenn der Verein fertig installiert ist und ein genügender Informationsstand im Kreis der Interessenten besteht, geht es an den entscheidenden Schritt: Den Schritt vom unverbindlichen, ggf. anonymen Interessenten zum verbindlich verpflichteten, namentlich bekannten (gegebenenfalls pseudonymen) und mitbestimmungsberechtigten Gründer.
