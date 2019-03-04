@@ -1,5 +1,7 @@
 __**FAQ (to be extended)**__
 
+Stand: 4.3.19
+
 # Wie soll der Prozess bis zur Gründung nach jetzigem Planungsstand ablaufen?
 
 - Informations- und Feedbackrunde I
