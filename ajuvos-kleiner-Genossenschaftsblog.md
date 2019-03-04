@@ -4,3 +4,6 @@ geno-kontakt@damals-tm-podcast.de
 zur Verfügung. Ich werde alle mails lesen, aber sicher nicht alle beantworten können, vor allem nicht zeitnah.
 Lieben Dank und liebe Grüße
 ajuvo*
+
+
+##Gründungsförderverein gegründet
