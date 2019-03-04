@@ -14,6 +14,10 @@ Verein zur Erschließung neuer Betätigungsformen in der Informationstechnologie
 
 ...aber der Name dieses Vereins ist hier nicht das wichtigste. Der Verein hat folgende Zwecke: 
 - die genossenschaftsgründungswilligen Menschen zu sammeln
-- den Gründungswillen verbindlich zu dokumentieren
+- den Gründungswillen verbindlich und personenbezogen zu dokumentieren
 - Geld für die Kosten der Gründung einzusammeln
 - den rechtlichen Rahmen für die vor der Gründung zu tätigenden Geschäfte bilden
+
+*Was bedeutet das, wie geht es weiter?
+
+df
