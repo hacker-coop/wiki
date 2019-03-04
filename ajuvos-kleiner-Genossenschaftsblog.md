@@ -18,4 +18,4 @@ Verein zur Erschließung neuer Betätigungsformen in der Informationstechnologie
 - rechtssicher das nötige Geld für die Kosten der Gründung einzusammeln
 - den rechtlichen Rahmen für die vor der Gründung zu tätigenden Geschäfte bilden
 
-* Was bedeutet das, wie geht es weiter?
+*Was bedeutet das, wie geht es weiter?
