@@ -14,7 +14,7 @@ Verein zur Erschließung neuer Betätigungsformen in der Informationstechnologie
 
 Der Verein hat einen Vorstand, bestehend aus zwei Freiwillligen, vv01f vom c3d2 und therojam vom netz39; und einen Sitz in Dresden.
 
-...aber das ist eigentlich ganz unwichtig. Der Verein hat folgende Zwecke: 
+Der Verein hat folgende Zwecke: 
 - die genossenschaftsgründungswilligen Menschen zu sammeln
 - den Gründungswillen verbindlich und personenbezogen zu dokumentieren
 - rechtssicher das nötige Geld für die Kosten der Gründung einzusammeln
@@ -26,6 +26,6 @@ _Was bedeutet das, wie geht es weiter?_
 
 Der Verein wird noch einige Wochen brauchen, bis er im Register steht und ein Konto hat.
 
-Bis dahin, und darüber hinaus, geht das Informieren, Ideen generieren und Gründungsinteressenten sammeln weiter; hier, im Forum, F2F am Rande des allgemeinen und speziellen Chaos.
+Bis dahin, und darüber hinaus, geht das Informieren, Ideengenerieren, Fragenklären und Gründungsinteressentensammeln weiter; hier, im Forum, F2F am Rande des allgemeinen und speziellen Chaos.
 
-Wenn der Verein fertig installiert ist, geht es an den entscheidenden Schritt: Den Schritt vom unverbindlichen, ggf. anonymen Interessenten zum verbindlich verpflichteten und mitbestimmungsberechtigten Gründer.
+Wenn der Verein fertig installiert ist und eingenügender Informationsstand besteht, geht es an den entscheidenden Schritt: Den Schritt vom unverbindlichen, ggf. anonymen Interessenten zum verbindlich verpflichteten, namentlich bekannten (gegebenenfalls pseudonymen) und mitbestimmungsberechtigten Gründer.
