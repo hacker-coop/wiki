@@ -12,13 +12,20 @@ Letzte Woche haben ein paar ortanwesende Chaoten in Dresden einen einzutragenden
 
 Verein zur Erschließung neuer Betätigungsformen in der Informationstechnologie e.V.
 
-...aber der Name dieses Vereins ist hier nicht das wichtigste. Der Verein hat folgende Zwecke: 
+Der Verein hat einen Vorstand, bestehend aus zwei Freiwillligen, vv01f vom c3d2 und therojam vom netz39; und einen Sitz in Dresden.
+
+...aber das ist eigentlich ganz unwichtig. Der Verein hat folgende Zwecke: 
 - die genossenschaftsgründungswilligen Menschen zu sammeln
 - den Gründungswillen verbindlich und personenbezogen zu dokumentieren
 - rechtssicher das nötige Geld für die Kosten der Gründung einzusammeln
-- den rechtlichen Rahmen für die vor der Gründung zu tätigenden Geschäfte bilden
+- den Rahmen für verbindliche Vorentscheidungen bezüglich der Genossenschaft zu bilden
+- die juristische Entität für die vor der Gründung zu tätigenden Geschäfte darzustellen
 
 
 _Was bedeutet das, wie geht es weiter?_
 
-dfdff
+Der Verein wird noch einige Wochen brauchen, bis er im Register steht und ein Konto hat.
+
+Bis dahin, und darüber hinaus, geht das Informieren, Ideen generieren und Gründungsinteressenten sammeln weiter; hier, im Forum, F2F am Rande des allgemeinen und speziellen Chaos.
+
+Wenn der Verein fertig installiert ist, geht es an den entscheidenden Schritt: Den Schritt vom unverbindlichen, ggf. anonymen Interessenten zum verbindlich verpflichteten und mitbestimmungsberechtigten Gründer.
