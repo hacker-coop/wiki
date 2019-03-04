@@ -31,3 +31,9 @@ Bis dahin, und darüber hinaus, geht das Informieren, Ideengenerieren, Fragenkl�
 Wenn der Verein fertig installiert ist und ein genügender Informationsstand im Kreis der Interessenten besteht, geht es an den entscheidenden Schritt: Den Schritt von unverbindlichen, ggf. anonymen Interessenten zu verbindlich verpflichteten, namentlich bekannten (gegebenenfalls pseudonymen) und mitbestimmungsberechtigten Gründer/innen.
 
 Sobald innerhalb einer zu bestimmenden Frist genügend Gründer versammelt sind und ihren Anteil an den Gründungskosten einbezahlt haben, geht es an die Einleitung der rechtlichen Genossenschaftgründung. Parallel wird der Verein alle nötigen und darüber Hinaus gewünschten inhaltlichen, technischen, finanziellen und rechtlichen Vorbereitungen organisieren und finanzieren.
+
+Für all das ist noch einige Zeit. Hier im Wiki werden mehr Informationen erscheinen und zu einzelnen Fragen wird es im Forum Diskussionen und Meinungsbilder geben.
+
+Stay tuned
+
+/ajuvo
