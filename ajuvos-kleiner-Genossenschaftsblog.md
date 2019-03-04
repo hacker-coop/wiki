@@ -37,3 +37,14 @@ Für all das ist noch einige Zeit. Hier im Wiki werden mehr Informationen ersche
 Stay tuned
 
 /ajuvo
+
+
+## Workshop auf der Hackimpott19
+
+ajuvo war auf der hackimpott in Essen. Mit ca. 20 Interessenten wurde viel diskutiert, es war sehr schön. Weitere Workshops werden folgen, u.a. auf easterhegg19, GPN19; evtl. trifft man sich auf den Chemnitzer Linuxtagen.
+
+Als Zwischenergebnis kann festgehalten werden, dass die Möglichkeit zur Beschäftigung in der Genosssenschaft, die Spendensammelfunktion, die Plattform zum Crowdbuying/Import zu den vordringlich zu verwirklichenden Genossenschaftszwecken gehören dürften.
+
+Im Moment liegt der Fokus auf der Ingangsetzung des Gründungsvereins und der Interessentengewinnung. 
+
+Im Frühsommer wird es ein Gründertreffen geben, wo man sich face-to-face kennen lernen kann.
