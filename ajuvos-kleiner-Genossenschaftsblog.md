@@ -11,3 +11,7 @@ ajuvo*
 Letzte Woche haben ein paar ortanwesende Chaoten in Dresden einen einzutragenden, nicht gemeinnützigen Verein gegründet. Er hört auf den schönen Namen
 
 Verein zur Erschließung neuer Betätigungsformen in der Informationstechnologie e.V.
+
+...aber der Name dieses Vereins ist hier nicht das wichtigste. Der Verein hat folgende Zwecke: 
+- die genossenschaftsgründungswilligen Menschen zu sammeln
+- den Gründungswillen verbindlich zu d
