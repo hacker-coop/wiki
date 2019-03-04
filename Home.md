@@ -10,7 +10,7 @@ Hier gibt es eine kleine Sprachdatei mit Begrüßung und Erklärung: https://hyb
 
 **Aktuelle Updates und Hintergründe hier: **
 
-ajuvos kleiner Genossenschaftsblog
+NEU: ajuvos kleiner Genossenschaftsblog
 
 https://coop.therojam.space/wiki/ajuvos-kleiner-Genossenschaftsblog
 
@@ -18,15 +18,15 @@ Aktuelle Tondatei:
 
 https://hybr.de/podcast/files/geno2.mp3
 
+Es gibt neue FAQs: https://coop.therojam.space/wiki/FAQ - bitte lesen! Es werden mehr werden. 
+
 Die Hacker eG (Arbeitstitel) auf Mastodon: Hier werden aktuelle Hinweise, auch auf Änderungen auf diesem Board gegeben, bitte folgen:
 
 [@HackerGeno@chaos.social](https://chaos.social/@HackerGeno)
 
 Infos für noch accountlose Interessenten siehe unten.
 
-# Wasserstand: 200 Interessenten !
-
-*Revisionsstand: 11.2.19
+# Wasserstand: 200+ Interessenten !
 
 Interessenten werden weiterhin gebeten, sich mit einer leeren e-mail mit dem Betreff "Interesse" an diese Mailadresse zu wenden:
 
@@ -38,7 +38,7 @@ Schreibt gerne mails an Leute aus dem Chaos, die Eurer Meinung nach mitmachen so
 
 Die Mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einwegkommunikation und der Anmeldung als Interessent/in .
 
-Es gibt neue FAQs: https://coop.therojam.space/wiki/FAQ - bitte lesen! Es werden mehr werden.
+
 
 **Wir haben ein internes Diskussionsforum! Lesen und Schreiben!**
 
