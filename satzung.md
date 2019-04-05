@@ -1,5 +1,5 @@
 # Satzung
-## des Vereins zur Erschließung Neuer Betätigungsformen in der Informationstechnologie e.V.
+## des Vereins zur Erschließung neuer Betätigungsformen in der Informationstechnologie e.V.
 
 Errichtet am 25. Februar 2019.
 Eingetragen am 1. April 2019 am Amtsgericht Dresden unter VR 11346.
