@@ -1,3 +1,7 @@
+<pre>Verein zur Erschließung neuer Betätigungsformen in der Informationstechnologie
+VEBIT e.V., Riesaer Straße 32, 01127 Dresden</pre>
+
+
 # Satzung
 ## des Vereins zur Erschließung neuer Betätigungsformen in der Informationstechnologie e.V.
 
