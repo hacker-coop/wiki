@@ -5,6 +5,31 @@ zur Verfügung. Ich werde alle mails lesen, aber sicher nicht alle beantworten k
 Lieben Dank und liebe Grüße
 ajuvo*
 
+## Bald kommt der Beitritts- und Zahlungsaufruf
+
+Liebe Freunde und Genossen,
+
+wir haben alles soweit vorbereitet, der Test des neuen internen Forums läuft, und schon bald werden alle Interessenten Mail bekommen, mit Anhang, insbesondere:
+
+Einen Beitrittsaufruf
+Ein Beitrittsformular
+Einen Fragebogen
+Eine Datenschutzerklärung
+
+Wir haben/werden uns sehr viel Mühe mit Datensparsamkeit, Datenschutz und Sicherheit gegeben. Daher wird der juristische Kernprozess weitgehend auf Papier stattfinden. Wer also keinen Drucker mehr hat, besorge oder leihe sich einen ;)
+
+Der genaue Prozess wird in der Mail beschrieben, und sobald genügend Genossen und Gelder zusammen sind, geht es weiter.
+
+Mehr Infos bald hier, im alten Forum und per mail.
+
+Grüße zum 1. Mai
+
+ajuvo 
+
+
+
+
+
 
 ## Gründungsförderverein gegründet
 
