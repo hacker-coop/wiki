@@ -1,3 +1,9 @@
+## Achtung Server Umzug
+
+Das Wiki zieht um. Credentials bleiben gleich. 
+Die neue Adresse wird heißen https://kb.vebit.xyz.
+Folgt uns auf Mastodon! Schaut ins Forum! (Zieht auch um)
+
 ## Herzlich Willkommen!
 
 Dies ist die  nichtöffentliche Infoseite zur 
