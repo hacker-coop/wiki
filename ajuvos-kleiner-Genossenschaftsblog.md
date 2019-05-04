@@ -5,6 +5,28 @@ zur Verfügung. Ich werde alle mails lesen, aber sicher nicht alle beantworten k
 Lieben Dank und liebe Grüße
 ajuvo*
 
+## Beitrittsaufruf und Beitrittsunterlagen versandt
+
+Alle registrierten Interessenten  haben eine Mail bekommen. Diese enthält 3 Anlagen als pdf: 
+
+* einen Gründungsaufruf zum weiter verbreiten an family & friends
+* einen Fragebogen
+* eine Beitrittserklärung
+
+nebst Erläuterungen.
+
+Wer noch mitmachen will, und noch nicht registriert ist, muss diese Unterlagen anfordern, indem er/sie/lebensform eine leere Mail mit Betreff "Beitritt" an geno@damals-tm-podcast.de schickt. 
+Es eilt so langsam, denn spätestens am 17. Juni müssen Beitrittserklärung und Fragebogen beim Gründungsverein Vebit e.V. in Dresden eingegangen sein; und der Einmalbeitrag zur Deckung der Gründungskosten der Genossenschaft muss bis dahin auf dem Konto des Vebit e.V. bei der GLS Bank eG eingegangen sein.
+Nur wenn 100 Gründer spätestens bis dahin ihren Beitritt zum Vebit e.V. erklärt und ihren Beitrag bezahlt haben, geht es weiter.
+
+An dieser Stelle folgen in den nächsten Tagen laufend Informationen und Antworten auf Fragen, die uns erreichen.
+
+Verbreitet gerne diesen Link zum Gründungsaufruf: 
+
+https://ajuvo.crew.c-base.org 
+
+/a
+
 ## Bald kommt der Beitritts- und Zahlungsaufruf
 
 Liebe Freunde und Genossen,
