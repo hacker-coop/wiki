@@ -4,7 +4,8 @@ Das Wiki zieht um. Credentials bleiben gleich.
 Die neue Adresse wird heißen https://kb.vebit.xyz. NOCH NICHT!
 Folgt uns auf Mastodon! Schaut ins Forum! (Zieht auch um, später)
 
-Der Aufruf: https://coop.therojam.space/wiki/Aufruf
+# Der Aufruf:
+https://coop.therojam.space/wiki/Aufruf
 
 ## Herzlich Willkommen!
 
