@@ -119,9 +119,6 @@ Aber vor allem brauchen wir Leute, die Ihre Kenntnisse und Erfahrungen der Genos
 
 Hier. Und im Forum.
 
-**aktuell: Wir suchen $jemanden, der uns eine discourse-Instanz (https://discourse.org/about) aufsetzen, hosten und administrieren kann. Bitte melden**
-
-
 ## Kann ich bei der Genossenschaft arbeiten?
 
 Ja. Wenn Du der Genossenschaft Einnahmen verschaffst, kannst Du entsprechend von Ihr Lohn beziehen, als Arbeitnehmer. Du musst einen Teil des Geldes der Genossenschaft abgeben, und sparst Dir dafür die Mühsal des Unternehmerdaseins. 

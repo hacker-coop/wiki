@@ -1,5 +1,5 @@
 # Der Aufruf:
-https://coop.therojam.space/wiki/Aufruf
+https://kb.vebit.xyz/wiki/Aufruf
 
 ## Herzlich Willkommen!
 
@@ -12,16 +12,13 @@ im folgenden "Hacker eG" genannt (Namensfindungsforum im Forum, siehe unten)
 Hier gibt es eine kleine Sprachdatei mit Begrüßung und Erklärung: https://hybr.de/podcast/files/geno1.mp3
 
 **Aktuelle Updates und Hintergründe hier: **
-
-NEU: ajuvos kleiner Genossenschaftsblog
-
-https://coop.therojam.space/wiki/ajuvos-kleiner-Genossenschaftsblog
+Findest du in [ajuvos kleiner Genossenschaftsblog](https://kb.vebit.xyz/wiki/ajuvos-kleiner-Genossenschaftsblog)
 
 Aktuelle Tondatei:
 
 https://hybr.de/podcast/files/geno2.mp3
 
-Es gibt neue FAQs: https://coop.therojam.space/wiki/FAQ - bitte lesen! Es werden mehr werden. 
+Es gibt neue [FAQs](https://kb.vebit.xyz/wiki/FAQ) - bitte lesen! Es werden mehr werden. 
 
 Die Hacker eG (Arbeitstitel) auf Mastodon: Hier werden aktuelle Hinweise, auch auf Änderungen auf diesem Board gegeben, bitte folgen:
 
@@ -45,7 +42,7 @@ Die Mailadresse geno@damals-tm-podcast.de dient nur der halbautomatischen Einweg
 
 **Wir haben ein internes Diskussionsforum! Lesen und Schreiben!**
 
-hier: https://coop.therojam.tech/index.php
+hier: https://forum.vebit.xyz
 
 ** es ist ein htaccess davor, die Zugangsdaten erhaltet Ihr per Mail an die Adresse, mit der Ihr Euch angemeldet habt.
 Bitte klickt Euch dort einen Account und schreibt dort mit! Guckt hier und im Forum die nächsten Tage und Wochen regelmäßig nach**
@@ -99,7 +96,7 @@ Es werden mehr Tondateien mit Informationen produziert werden.
 
 Auf der Seite "Hintergrund" werden kurz die $Gründe dahinter dargestellt:
 
-[Hintergrund](https://coop.therojam.space/wiki/Hintergrund)
+[Hintergrund](https://kb.vebit.xyz/wiki/Hintergrund)
 
 
 
@@ -119,4 +116,4 @@ Der [@ajuvo](https://chaos.social/@ajuvo) hat man nen kleinen Talk auf Datenspur
 Außerdem gibt es einen [Lightning Talk](https://media.ccc.de/v/34c3-9256-lightning_talks_day_2#t=2722) vom 34c3.
 
 
-[Impressum](https://coop.therojam.space/wiki/Imprint)
+[Impressum](https://kb.vebit.xyz/wiki/Imprint)

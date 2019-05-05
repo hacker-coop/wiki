@@ -8,4 +8,4 @@ Auch aus anderen Gründen wäre es manchmal hilfreich, ein Unternehmen zu haben,
 
 Ein solches Unternehmen kann eine Genossenschaft sein, an der man selbst Anteile hält, in der man mitbestimmt oder jedenfalls vertrauenswürdige Individuen mitbestimmen lässt. Eine Genossenschaft, die einem Berater, Arbeitgeber, Dienstleister, Geldsammler, Plattform, Gemeinschaft ist. Je nachdem.
 
-[Home](https://coop.therojam.space/wiki/Home)
+[Home](https://kb.vebit.xyz/wiki/Home)
