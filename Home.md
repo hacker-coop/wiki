@@ -1,9 +1,3 @@
-## Achtung Server Umzug
-
-Das Wiki zieht um. Credentials bleiben gleich. 
-Die neue Adresse wird heißen https://forum.vebit.xyz. 
-Folgt uns auf Mastodon! Schaut ins Forum! (Zieht auch um, später)
-
 # Der Aufruf:
 https://coop.therojam.space/wiki/Aufruf
 
