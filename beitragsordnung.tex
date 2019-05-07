@@ -1,0 +1,74 @@
+\documentclass[fontsize=11pt,pagesize,parskip=half]{scrartcl}
+
+% encoding
+\usepackage{iftex}
+\ifPDFTeX % latex or pdflatex
+	\usepackage[utf8]{inputenc}
+	\usepackage[T1]{fontenc} % fontselection
+\else % xelatex or lualatex
+	\usepackage{fontspec}
+\fi
+
+\usepackage[ngerman]{babel} % lang=de
+
+% page setup
+\usepackage[left=25mm,right=2cm, top=2cm, bottom=25mm]{geometry}
+
+% font aufhübschen
+\usepackage{lmodern}
+\usepackage{textcomp} % § wird schöner
+
+\usepackage[
+	clausemark=forceboth,
+	%~ juratotoc,
+	%~ juratocnumberwidth=2.5em
+]{scrjura}
+
+\usepackage{hyperref} % support hyperlinks
+
+\begin{document}
+
+\author{Vorstand}
+\subject{Beitragsordnung}
+\title{VEBIT eV}
+\subtitle{Verein zur Erschließung neuer Betätigungsformen in der Informationstechnologie e.V.}
+\date{05.\,05.\,2019}
+\maketitle
+
+%~ \tableofcontents
+
+%~ \addsec{Präambel}
+
+\appendix
+
+\begin{contract}
+
+% §1
+\Clause{title={Höhe der Beiträge}}
+
+%~ \Sentence\ignorespaces
+Der Mitgliedsbeitrag beträgt 100 Euro pro Kalenderjahr.
+
+% §2
+\Clause{title={Zahlungsweise}}
+
+Der Mitgliedsbeitrag kann als Barzahlung an einen Vorstand erfolgen.
+
+Die Zahlung des Mitgliedsbeitrages soll alternativ per Überweisung unter Angabe der Mitgliedsnummer auf das Konto des Vereins erfolgen.
+
+% §3
+\Clause{title={Aufnahmegebühren, Anrechnung und Erstattungen}}
+
+Aufnahmegebühren werden für den Verein nicht erhoben.
+
+Eine Anrechnung von Beiträgen auf Genossenschaftsanteile findet nicht statt.
+
+Eine Erstattung von Mitgliedsbeiträgen erfolgt nicht.
+
+\end{contract}
+
+\vfill
+
+VEBIT e.V., Riesaer Straße 32, 01127 Dresden
+
+\end{document}
