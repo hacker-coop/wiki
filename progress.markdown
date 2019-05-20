@@ -4,7 +4,7 @@
 
 Für den eV wurden bereits Beiträge eingezahlt.
 
-Anzahl | Datum
+Anzahl | Datum Wertstellung
 ------:|------:
 1 | 2019-05-02
 1 | 2019-05-03
@@ -19,7 +19,7 @@ Anzahl | Datum
 3 | 2019-05-14
 2 | 2019-05-15
 1 | 2019-05-17
-1 | 2019-05-19
+4 | 2019-05-20
 
 ## Mitgliederzahl
 
