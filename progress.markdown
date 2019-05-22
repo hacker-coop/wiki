@@ -1,8 +1,23 @@
 # Progress Daten
 
+Der VEBIT eV ist angetreten die notwendigen Mittel zu sammeln und
+Schritte zu unternehmen eine „Hacker Genossenschaft“ zu gründen.
+
+Dazu gibt es die [Satzung] und eine [Beitragsordnung].
+Die Beiträge rechnen nicht auf Anteile der Genossenschaft an.
+
+Der Vorstand bittet alle willigen Chaoten und künftige Genossen
+**bis 17. Juni 2019** mittels [Beitrittserklärung/Fragebogen]
+dem Verein beizutreten, sodass der Genossenschaftsgründung in
+diesem Jahr nichts entgegen steht.
+
+[Satzung]: https://git.vebit.xyz/vebit/wiki/src/branch/master/satzung.markdown
+[Beitragsordnung]: https://git.vebit.xyz/vebit/wiki/src/branch/master/beitragsordnung.markdown
+[Beitrittserklärung/Fragebogen]: https://git.vebit.xyz/vebit/wiki/src/branch/master/fragebogen.pdf
+
 ## Einzahlung von Beiträgen
 
-Für den eV wurden bereits Beiträge eingezahlt.
+Für den eV wurden von den notwendigen 100 Beiträgen bereits eingezahlt:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
@@ -22,13 +37,3 @@ Gesamt | Anzahl | Datum Wertstellung
 29 | 1 | 2019-05-17
 33 | 4 | 2019-05-20
 34 | 1 | 2019-05-22
-
-## Mitgliederzahl
-
-Durch Gründungsversammlung und nach Aufruf an Interessenten durch Einsendung von Mitgliedsanträgen aufgenommene Personen.
-
-Anzahl | Datum
-------:|------:
-13 | 2019-02-25
- 2 | 2019-05-07
-15 | 2019-05-16
