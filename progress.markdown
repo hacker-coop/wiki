@@ -21,6 +21,7 @@ Gesamt | Anzahl | Datum Wertstellung
 28 | 2 | 2019-05-16
 29 | 1 | 2019-05-17
 33 | 4 | 2019-05-20
+34 | 1 | 2019-05-22
 
 ## Mitgliederzahl
 
