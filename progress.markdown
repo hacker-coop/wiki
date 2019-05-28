@@ -11,6 +11,16 @@ Der Vorstand bittet alle willigen Chaoten und künftige Genossen
 dem Verein beizutreten, sodass der Genossenschaftsgründung in
 diesem Jahr nichts entgegen steht.
 
+PDF-Formulare und ihre direkte Nutzung sind sehr abhängig von den
+verwendeten Elementen und dem verwendeten Programm. Getestet wurde
+zum direkten Befüllen u.a. Libre Office Draw und Foxit Reader.
+  
+Ein weiterer Beitrag aus den Reihen der neuen Mitglieder war eine
+[Beitrittserklärung als ODT](./vebit_beitrittserklaerung_ausfuellbar.odt)
+(und [PDF](./vebit_beitrittserklaerung_ausfuellbar.pdf)) sowie ein
+[Deckblatt](./vebit_rueckadressblatt_ausfuellbar.odt)
+([PDF](./vebit_rueckadressblatt_ausfuellbar.pdf)).
+
 [Satzung]: https://git.vebit.xyz/vebit/wiki/src/branch/master/satzung.markdown
 [Beitragsordnung]: https://git.vebit.xyz/vebit/wiki/src/branch/master/beitragsordnung.markdown
 [Beitrittserklärung/Fragebogen]: https://git.vebit.xyz/vebit/wiki/src/branch/master/fragebogen.pdf
