@@ -7,7 +7,7 @@ Dazu gibt es die [Satzung] und eine [Beitragsordnung].
 Die Beiträge rechnen nicht auf Anteile der Genossenschaft an.
 
 Der Vorstand bittet alle willigen Chaoten und künftige Genossen
-**bis 17. Juni 2019** mittels [Beitrittserklärung/Fragebogen]
+**bis 17. Juni 2019** mittels [Beitrittserklärung](./vebit_beitrittserklaerung_ausfuellbar.pdf) und [Fragebogen](./fragebogen.pdf)
 dem Verein beizutreten, sodass der Genossenschaftsgründung in
 diesem Jahr nichts entgegen steht.
 
@@ -23,7 +23,6 @@ Ein weiterer Beitrag aus den Reihen der neuen Mitglieder war eine
 
 [Satzung]: https://git.vebit.xyz/vebit/wiki/src/branch/master/satzung.markdown
 [Beitragsordnung]: https://git.vebit.xyz/vebit/wiki/src/branch/master/beitragsordnung.markdown
-[Beitrittserklärung/Fragebogen]: https://git.vebit.xyz/vebit/wiki/src/branch/master/fragebogen.pdf
 
 ## Einzahlung von Beiträgen
 
