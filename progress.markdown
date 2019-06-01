@@ -52,3 +52,6 @@ Gesamt | Anzahl | Datum Wertstellung
 44 | 6 | 2019-05-27
 45 | 1 | 2019-05-29
 47 | 2 | 2019-05-31
+
+* Davon Zahlungen ohne Beitrittsantrag: 9
+* Ausstehende Zahlungen nach Beitritt: 10
