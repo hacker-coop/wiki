@@ -2,6 +2,8 @@
 
 Der VEBIT eV ist angetreten die notwendigen Mittel zu sammeln und
 Schritte zu unternehmen eine „Hacker Genossenschaft“ zu gründen.
+Die Idee wurde auf Chaosveranstaltungen vorgestellt
+(Videos: [kurz](https://media.ccc.de/v/34c3-9256-lightning_talks_day_2#t=2721 "Lighningtalks Tag 2, 34c3"), [lang](https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-wirtschaften "ChaosWest, 35c3")). 
 
 Dazu gibt es die [Satzung] und eine [Beitragsordnung].
 Die Beiträge rechnen nicht auf Anteile der Genossenschaft an.
@@ -30,6 +32,7 @@ Für den eV wurden von den notwendigen 100 Beiträgen bereits eingezahlt:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+54 | 2 | 2019-06-05
 52 | 2 | 2019-06-04
 50 | 3 | 2019-06-03
 47 | 2 | 2019-05-31
@@ -55,5 +58,5 @@ Gesamt | Anzahl | Datum Wertstellung
  1 | 1 | 2019-05-02
  0 | 0 | 2019-02-25
 
-* Davon Zahlungen ohne Beitrittsantrag: 10
+* Davon Zahlungen ohne Beitrittsantrag: 9
 * Ausstehende Zahlungen nach Beitrittserklärung: 8
