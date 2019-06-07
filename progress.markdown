@@ -32,6 +32,8 @@ Für den eV wurden von den notwendigen 100 Beiträgen bereits eingezahlt:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+57 | 1 | 2019-06-07
+56 | 2 | 2019-06-06
 54 | 2 | 2019-06-05
 52 | 2 | 2019-06-04
 50 | 3 | 2019-06-03
@@ -59,4 +61,3 @@ Gesamt | Anzahl | Datum Wertstellung
  0 | 0 | 2019-02-25
 
 * Davon Zahlungen ohne Beitrittsantrag: 9
-* Ausstehende Zahlungen nach Beitrittserklärung: 8
