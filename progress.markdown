@@ -60,4 +60,22 @@ Gesamt | Anzahl | Datum Wertstellung
  1 | 1 | 2019-05-02
  0 | 0 | 2019-02-25
 
-* Davon Zahlungen ohne Beitrittsantrag: 9
+Davon:
+* 9 Zahlungen ohne Beitrittsantrag
+* 9 Beitrittserklärungen ohne Zahlungseingang
+
+## Kostentransparenz
+
+### Enstandene Ausgaben
+
+* 115,88 € Ausgaben für die Gründung des eV
+  + 40,88 Unterschriftenbeglaubigung
+  + 75,00 Gebühren Registergericht
+  + 0,00 Registerauszug
+* 55,52 € Ausgaben für Kosten des Geldverkehrts (GLS)
+  + 40,00 Kontoführungsgebühren 2019, anteilig
+  + 15,52 Kontoführungsgebühren April–Mai 2019
+
+### Geplante Ausgaben
+
+* Steuerberater für Erklärung des eV an FA Dresden
