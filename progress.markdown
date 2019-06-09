@@ -60,9 +60,8 @@ Gesamt | Anzahl | Datum Wertstellung
  1 | 1 | 2019-05-02
  0 | 0 | 2019-02-25
 
-Davon:
-* 9 Zahlungen ohne Beitrittsantrag
-* 9 Beitrittserklärungen ohne Zahlungseingang
+* Davon Zahlungen ohne Beitrittsantrag: 9
+* Dazu Beitrittserklärungen ohne Zahlungseingang: 9
 
 ## Kostentransparenz
 
