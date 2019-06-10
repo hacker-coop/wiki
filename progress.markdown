@@ -72,10 +72,11 @@ Gesamt | Anzahl | Datum Wertstellung
   + 40,88 Unterschriftenbeglaubigung
   + 75,00 Gebühren Registergericht
   + 0,00 Registerauszug
-* 55,52 € Ausgaben für Kosten des Geldverkehrts (GLS)
+* 55,52 € Ausgaben für Kosten des Geldverkehrs (GLS)
   + 40,00 Kontoführungsgebühren 2019, anteilig
   + 15,52 Kontoführungsgebühren April–Mai 2019
 
 ### Geplante Ausgaben
 
 * Steuerberater für Erklärung des eV an FA Dresden
+* Hoster
