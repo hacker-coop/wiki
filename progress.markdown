@@ -61,11 +61,7 @@ Gesamt | Anzahl | Datum Wertstellung
  1 | 1 | 2019-05-02
  0 | 0 | 2019-02-25
 
-<<<<<<< Updated upstream
-* Davon Zahlungen ohne Beitrittsantrag: 9
-=======
 * Davon Zahlungen ohne Beitrittsantrag: 7
->>>>>>> Stashed changes
 * Dazu Beitrittserklärungen ohne Zahlungseingang: 9
 
 ## Kostentransparenz
@@ -77,13 +73,8 @@ Gesamt | Anzahl | Datum Wertstellung
   + 75,00 Gebühren Registergericht
   + 0,00 Registerauszug
 * 55,52 € Ausgaben für Kosten des Geldverkehrts (GLS)
-<<<<<<< Updated upstream
   + 40,00 Kontoführungsgebühren 2019, anteilig
   + 15,52 Kontoführungsgebühren April–Mai 2019
-=======
-  + 15,52 Kontoführungsgebühren April–Mai 2019
-  + 40,00 Kontoführungsgebühren 2019, anteilig
->>>>>>> Stashed changes
 
 ### Geplante Ausgaben
 
