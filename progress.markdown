@@ -9,7 +9,7 @@ Dazu gibt es die [Satzung] und eine [Beitragsordnung].
 Die Beiträge rechnen nicht auf Anteile der Genossenschaft an.
 
 Der Vorstand bittet alle willigen Chaoten und künftige Genossen
-**bis 17. Juni 2019** mittels [Beitrittserklärung](./vebit_beitrittserklaerung_ausfuellbar.pdf) in Papierform(!) und [Fragebogen](./fragebogen.pdf) optional elektronisch
+**bis 17. Juni 2019** mittels [Beitrittserklärung](./vebit_beitrittserklaerung_ausfuellbar.pdf) in Papierform(!) und [Fragebogen](./fragebogen.pdf)
 dem Verein beizutreten, sodass der Genossenschaftsgründung in
 diesem Jahr nichts entgegen steht.
 
@@ -32,6 +32,7 @@ Für den eV wurden von den notwendigen 100 Beiträgen bereits eingezahlt:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+60 | 3 | 2019-06-11
 57 | 1 | 2019-06-07
 56 | 2 | 2019-06-06
 54 | 2 | 2019-06-05
@@ -60,7 +61,11 @@ Gesamt | Anzahl | Datum Wertstellung
  1 | 1 | 2019-05-02
  0 | 0 | 2019-02-25
 
+<<<<<<< Updated upstream
 * Davon Zahlungen ohne Beitrittsantrag: 9
+=======
+* Davon Zahlungen ohne Beitrittsantrag: 7
+>>>>>>> Stashed changes
 * Dazu Beitrittserklärungen ohne Zahlungseingang: 9
 
 ## Kostentransparenz
@@ -72,8 +77,13 @@ Gesamt | Anzahl | Datum Wertstellung
   + 75,00 Gebühren Registergericht
   + 0,00 Registerauszug
 * 55,52 € Ausgaben für Kosten des Geldverkehrts (GLS)
+<<<<<<< Updated upstream
   + 40,00 Kontoführungsgebühren 2019, anteilig
   + 15,52 Kontoführungsgebühren April–Mai 2019
+=======
+  + 15,52 Kontoführungsgebühren April–Mai 2019
+  + 40,00 Kontoführungsgebühren 2019, anteilig
+>>>>>>> Stashed changes
 
 ### Geplante Ausgaben
 
