@@ -1,9 +1,12 @@
+
 # Progress Daten
+
 
 Der VEBIT eV ist angetreten die notwendigen Mittel zu sammeln und
 Schritte zu unternehmen eine „Hacker Genossenschaft“ zu gründen.
 Die Idee wurde auf Chaosveranstaltungen vorgestellt
-(Videos: [kurz](https://media.ccc.de/v/34c3-9256-lightning_talks_day_2#t=2721 "Lighningtalks Tag 2, 34c3"), [lang](https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-wirtschaften "ChaosWest, 35c3")). 
+(Videos: [kurz](https://media.ccc.de/v/34c3-9256-lightning_talks_day_2#t=2721 "Lighningtalks Tag 2, 34c3"), [lang](https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-wirtschaften "ChaosWest, 35c3")).
+tl;dr: Wer die Idee interessant findet darf sich wie folgt für weitere Informationen subscriben: <mailto:geno@damals-tm-podcast.de?subject=Interesse>.
 
 Dazu gibt es die [Satzung] und eine [Beitragsordnung].
 Die Beiträge rechnen nicht auf Anteile der Genossenschaft an.
@@ -32,7 +35,7 @@ Für den eV wurden von den notwendigen 100 Beiträgen bereits eingezahlt:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
- 89 | 7 | 2019-06-12
+ 91 | 9 | 2019-06-12
  82 |25 | 2019-06-11
  57 | 1 | 2019-06-07
  56 | 2 | 2019-06-06
