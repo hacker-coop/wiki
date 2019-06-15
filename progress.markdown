@@ -12,7 +12,7 @@ Dazu gibt es die [Satzung] und eine [Beitragsordnung].
 Die Beiträge rechnen nicht auf Anteile der Genossenschaft an.
 
 Der Vorstand bittet alle willigen Chaoten und künftige Genossen
-**bis 17. Juni 2019** mittels [Beitrittserklärung](./vebit_beitrittserklaerung_ausfuellbar.pdf) in Papierform(!) und [Fragebogen](./fragebogen.pdf)
+<!--**bis 17. Juni 2019**--> mittels [Beitrittserklärung](./vebit_beitrittserklaerung_ausfuellbar.pdf) in Papierform(!) und [Fragebogen](./fragebogen.pdf)
 dem Verein beizutreten, sodass der Genossenschaftsgründung in
 diesem Jahr nichts entgegen steht.
 
