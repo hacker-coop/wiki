@@ -35,7 +35,7 @@ Für den eV wurden von den notwendigen 100 Beiträgen bereits eingezahlt:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
-125 | 2 | 2019-06-18
+127 | 4 | 2019-06-18
 123 |10 | 2019-06-17
 113 | 1 | 2019-06-15
 112 | 4 | 2019-06-14
