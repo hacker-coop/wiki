@@ -29,12 +29,27 @@ Ein weiterer Beitrag aus den Reihen der neuen Mitglieder war eine
 [Satzung]: https://git.vebit.xyz/vebit/wiki/src/branch/master/satzung.markdown
 [Beitragsordnung]: https://git.vebit.xyz/vebit/wiki/src/branch/master/beitragsordnung.markdown
 
-## Einzahlung von Beiträgen
+<!--
+## Aufnahme von Mitgliedern
 
+Nachdem die Gründung der Genossenschaft finanziell nach bestem Wissen
+sicher gestellt ist, bearbeiten wir die Beitrittsanträge nun nach
+Sichtung in Reihenfolge der Einreichung. Zunächst werden die Anträge
+natürlicher Personen bearbeitet, juristische Personen folgen
+im Anschluss.
+
+Unvollständige Beitrittserklärungen, z.B. ohne Mitteilung und
+Bereitstellung von PGP-Schlüssel, ein Ausbleiben des Mitgliedsbeitrages
+oder andere Ausschlussgründe führen zur Verzögerung der Aufnahme.
+-->
+
+## Einzahlung von Beiträgen
+ 
 Für den eV wurden von den notwendigen 100 Beiträgen bereits eingezahlt:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+128 | 1 | 2019-06-20
 127 | 4 | 2019-06-18
 123 |10 | 2019-06-17
 113 | 1 | 2019-06-15
