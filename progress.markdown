@@ -100,8 +100,9 @@ Gesamt | Anzahl | Datum Wertstellung
 * 55,52 € Ausgaben für Kosten des Geldverkehrs (GLS)
   + 40,00 Kontoführungsgebühren 2019, anteilig
   + 15,52 Kontoführungsgebühren April–Mai 2019
+* 10,00 € Ausgaben für Hosting
+  + Monatliche Kosten derzeit auf 5 € eingestellt
 
 ### Geplante Ausgaben
 
 * Steuerberater für Erklärung des eV an FA Dresden
-* Hoster
