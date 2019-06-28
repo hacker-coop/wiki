@@ -49,6 +49,7 @@ Für den eV wurden von den notwendigen 100 Beiträgen bereits eingezahlt:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+129 | 1 | 2019-06-28
 128 | 1 | 2019-06-20
 127 | 4 | 2019-06-18
 123 |10 | 2019-06-17
@@ -105,4 +106,5 @@ Gesamt | Anzahl | Datum Wertstellung
 
 ### Geplante Ausgaben
 
+* Hostingkosten derzeit eher unsolidarisches Minimum
 * Steuerberater für Erklärung des eV an FA Dresden
