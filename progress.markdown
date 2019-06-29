@@ -29,7 +29,6 @@ Ein weiterer Beitrag aus den Reihen der neuen Mitglieder war eine
 [Satzung]: https://git.vebit.xyz/vebit/wiki/src/branch/master/satzung.markdown
 [Beitragsordnung]: https://git.vebit.xyz/vebit/wiki/src/branch/master/beitragsordnung.markdown
 
-<!--
 ## Aufnahme von Mitgliedern
 
 Nachdem die Gründung der Genossenschaft finanziell nach bestem Wissen
@@ -38,10 +37,12 @@ Sichtung in Reihenfolge der Einreichung. Zunächst werden die Anträge
 natürlicher Personen bearbeitet, juristische Personen folgen
 im Anschluss.
 
+* nächste Vorstandssitzung: 2019-06-29 20:30
+* Aufnahmekandidaten: 92
+
 Unvollständige Beitrittserklärungen, z.B. ohne Mitteilung und
 Bereitstellung von PGP-Schlüssel, ein Ausbleiben des Mitgliedsbeitrages
 oder andere Ausschlussgründe führen zur Verzögerung der Aufnahme.
--->
 
 ## Einzahlung von Beiträgen
  
