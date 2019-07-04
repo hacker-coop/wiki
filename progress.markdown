@@ -108,5 +108,4 @@ Gesamt | Anzahl | Datum Wertstellung
 
 ### Geplante Ausgaben
 
-* Hostingkosten derzeit eher unsolidarisches Minimum
 * Steuerberater für Erklärung des eV an FA Dresden
