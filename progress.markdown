@@ -37,9 +37,6 @@ Sichtung in Reihenfolge der Einreichung. Zunächst werden die Anträge
 natürlicher Personen bearbeitet, juristische Personen folgen
 im Anschluss.
 
-* nächste Vorstandssitzung: 2019-06-29 20:30
-* Aufnahmekandidaten: 92
-
 Unvollständige Beitrittserklärungen, z.B. ohne Mitteilung und
 Bereitstellung von PGP-Schlüssel, ein Ausbleiben des Mitgliedsbeitrages
 oder andere Ausschlussgründe führen zur Verzögerung der Aufnahme.
@@ -98,14 +95,18 @@ Gesamt | Anzahl | Datum Wertstellung
 * 115,88 € Ausgaben für die Gründung des eV
   + 40,88 Unterschriftenbeglaubigung
   + 75,00 Gebühren Registergericht
-  + 0,00 Registerauszug
-* 55,52 € Ausgaben für Kosten des Geldverkehrs (GLS)
+  +  0,00 Registerauszug
+* 78,65 € Ausgaben für Kosten des Geldverkehrs (GLS)
   + 40,00 Kontoführungsgebühren 2019, anteilig
   + 15,52 Kontoführungsgebühren April–Mai 2019
   + 23,13 Kontoführungsgebühren Juni
-* 10,00 € Ausgaben für Hosting
-  + Monatliche Kosten derzeit auf 6 € eingestellt
+* 12,00 € Ausgaben für Hosting 6 € p.m.
+  + 10,00 Hosting per 26.06.
+  +  2,00 Hosting per 15.07.
 
-### Geplante Ausgaben
+### Eingeplante Ausgaben
 
+* Büromittel und Porto
+* Merch: u.a. Sticker, Shirts
 * Steuerberater für Erklärung des eV an FA Dresden
+* Anwalt für Satzung der Genossenschaft
