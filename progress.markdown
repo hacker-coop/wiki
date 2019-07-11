@@ -110,3 +110,13 @@ Gesamt | Anzahl | Datum Wertstellung
 * Merch: u.a. Sticker, Shirts
 * Steuerberater für Erklärung des eV an FA Dresden
 * Anwalt für Satzung der Genossenschaft
+
+## Erreichbarkeit
+
+per E-Mail
+* vebit at riseup dot net – [PGP](./vebit.gpg)
+  + FP: `4082 248E 2994 B91A 5639  0E2D 7F0F 161B D3B3 CF51`
+* vorstand at vebit dot xyz – [PGP](./vorstand.gpg)
+  + FP: `6142 D66A ECA5 4DB3 5101  259D E214 219F 4496 1D5A`
+
+Alternativ auch gerne per bekannten Erreichbarkeiten direkt an *vv01f*, *therojam* oder *ajuvo*
