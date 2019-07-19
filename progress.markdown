@@ -100,12 +100,12 @@ Gesamt | Anzahl | Datum Wertstellung
   + 40,00 Kontoführungsgebühren 2019, anteilig
   + 15,52 Kontoführungsgebühren April–Mai 2019
   + 23,13 Kontoführungsgebühren Juni
-* 12,00 € Ausgaben für Hosting 6 € p.m.
+* 15,76 € Ausgaben für Hosting 6 € p.m.
   + 10,00 Hosting per 26.06.
   +  2,00 Hosting per 15.07.
   +  3,76 Domain, 1y coop.wtf
   +  ? Domain, wtf.coop
-* 180,00 € Ausgaben für Merchandize
+* 206,73 € Ausgaben für Merchandize
   + 200,00 10x T-Shirts, handbedruckt
   -  20,00 Spende beim Workshop
   +  26,73 Sticker, 500 Stk
