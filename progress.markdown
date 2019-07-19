@@ -103,6 +103,14 @@ Gesamt | Anzahl | Datum Wertstellung
 * 12,00 € Ausgaben für Hosting 6 € p.m.
   + 10,00 Hosting per 26.06.
   +  2,00 Hosting per 15.07.
+  +  3,76 Domain, 1y coop.wtf
+  +  ? Domain, wtf.coop
+* 180,00 € Ausgaben für Merchandize
+  + 200,00 10x T-Shirts, handbedruckt
+  -  20,00 Spende beim Workshop
+  +  26,73 Sticker, 500 Stk
+* Anderes
+  +   ? Workshop Ewaldshof 18-19jul19
 
 ### Eingeplante Ausgaben
 
