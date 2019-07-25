@@ -43,10 +43,12 @@ oder andere Ausschlussgründe führen zur Verzögerung der Aufnahme.
 
 ## Einzahlung von Beiträgen
  
-Für den eV wurden von den notwendigen 100 Beiträgen bereits eingezahlt:
+Für den eV sind folgende Wertstellungen verzeichnet:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+131 | 1 | 2019-07-25
+130 | 1 | 2019-07-18
 129 | 1 | 2019-06-28
 128 | 1 | 2019-06-20
 127 | 4 | 2019-06-18
@@ -111,7 +113,10 @@ Gesamt | Anzahl | Datum Wertstellung
   +  26,73 Sticker, 500 Stk
 * Anderes
   +   ? Workshop Ewaldshof 18-19jul19
-
+* Kosten für Mitgliederpost
+  +   4,00 Porto
+  +   ? Papier, Umschläge
+  
 ### Eingeplante Ausgaben
 
 * Büromittel und Porto
