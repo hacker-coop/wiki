@@ -98,14 +98,15 @@ Gesamt | Anzahl | Datum Wertstellung
   + 40,88 Unterschriftenbeglaubigung
   + 75,00 Gebühren Registergericht
   +  0,00 Registerauszug
-* 78,65 € Ausgaben für Kosten des Geldverkehrs (GLS)
+*  78,65 € Ausgaben für Kosten des Geldverkehrs (GLS)
   + 40,00 Kontoführungsgebühren 2019, anteilig
   + 15,52 Kontoführungsgebühren April–Mai 2019
   + 23,13 Kontoführungsgebühren Juni
-* 15,76 € Ausgaben für Hosting 6 € p.m.
+*  19,56 € Ausgaben für Hosting 6 € p.m.
   + 10,00 Hosting per 26.06.
   +  2,00 Hosting per 15.07.
-  +  3,76 Domain, 1y coop.wtf
+  +  3,76 Domain, 1y coop.wtf (4,06 USD)
+  +  3,80 Domain, 1y geno.wtf (4,06 USD)
   +  ? Domain, wtf.coop
 * 206,73 € Ausgaben für Merchandize
   + 200,00 10x T-Shirts, handbedruckt
@@ -113,10 +114,11 @@ Gesamt | Anzahl | Datum Wertstellung
   +  26,73 Sticker, 500 Stk
 * Anderes
   +   ? Workshop Ewaldshof 18-19jul19
-* Kosten für Mitgliederpost
+*   4,00 Kosten für Mitgliederpost
   +   4,00 Porto
-  +   ? Papier, Umschläge
-  
+  +   ? Papier
+  +   ? Umschläge
+
 ### Eingeplante Ausgaben
 
 * Büromittel und Porto
