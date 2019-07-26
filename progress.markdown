@@ -4,6 +4,7 @@
 
 Der VEBIT eV ist angetreten die notwendigen Mittel zu sammeln und
 Schritte zu unternehmen eine „Hacker Genossenschaft“ zu gründen.
+Ein kurzer Infoflyer ist hier: https://git.vebit.xyz/vebit/wiki/src/branch/master/Flyer0912.pdf bzw. hier: https://ajuvo.crew.c-base.org/Flyer091.pdf
 Die Idee wurde auf Chaosveranstaltungen vorgestellt
 (Videos: [kurz](https://media.ccc.de/v/34c3-9256-lightning_talks_day_2#t=2721 "Lighningtalks Tag 2, 34c3"), [lang](https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-wirtschaften "ChaosWest, 35c3")).
 tl;dr: Wer die Idee interessant findet darf sich wie folgt für weitere Informationen subscriben: <mailto:geno@damals-tm-podcast.de?subject=Interesse>.
