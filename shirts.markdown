@@ -14,6 +14,7 @@ Die nach dem Workshop verbliebenen Shirts können gerne zum Wohle der Vereinskas
   
 ## Preise
 
-Für Mitglieder 25+ EUR
-Für Nichtmitglieder 40+ EUR
+Mitglieder | Andere
+----------:|-------:
+ 25+ EUR   | 40+ EUR
 
