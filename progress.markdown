@@ -99,10 +99,11 @@ Gesamt | Anzahl | Datum Wertstellung
   + 40,88 Unterschriftenbeglaubigung
   + 75,00 Gebühren Registergericht
   +  0,00 Registerauszug
-*  78,65 € Ausgaben für Kosten des Geldverkehrs (GLS)
+*  90,50 € Ausgaben für Kosten des Geldverkehrs (GLS)
   + 40,00 Kontoführungsgebühren 2019, anteilig
   + 15,52 Kontoführungsgebühren April–Mai 2019
   + 23,13 Kontoführungsgebühren Juni
+  + 11,85 Kontoführungsgebühren Juli
 *  19,56 € Ausgaben für Hosting 6 € p.m.
   + 10,00 Hosting per 26.06.
   +  2,00 Hosting per 15.07.
@@ -113,10 +114,11 @@ Gesamt | Anzahl | Datum Wertstellung
   + 200,00 10x T-Shirts, handbedruckt
   -  20,00 Spende beim Workshop
   +  26,73 Sticker, 500 Stk
-* Anderes
-  +   ? Workshop Ewaldshof 18-19jul19
+* 255,00 € Vereinsarbeit
+  + 255,00 Workshop Ewaldshof 18-19jul19
 *   4,00 Kosten für Mitgliederpost
-  +   4,00 Porto
+  +   4,00 Porto (DD)
+  +   ? Porto (B)
   +   ? Papier
   +   ? Umschläge
 
