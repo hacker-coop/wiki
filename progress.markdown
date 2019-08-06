@@ -114,8 +114,9 @@ Gesamt | Anzahl | Datum Wertstellung
   + 200,00 10x T-Shirts, handbedruckt
   -  20,00 Spende beim Workshop
   +  26,73 Sticker, 500 Stk
-* 255,00 € Vereinsarbeit
+* 325,00 € Vereinsarbeit
   + 255,00 Workshop Ewaldshof 18-19jul19
+  +  70,00 Lebensmittel Ewaldshof 
 *   4,00 Kosten für Mitgliederpost
   +   4,00 Porto (DD)
   +   ? Porto (B)
