@@ -48,6 +48,8 @@ Für den eV sind folgende Wertstellungen verzeichnet:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+135 | 1 | 2019-09-06
+134 | 1 | 2019-08-30
 133 | 2 | 2019-08-07
 131 | 1 | 2019-07-25
 130 | 1 | 2019-07-18
@@ -100,36 +102,42 @@ Gesamt | Anzahl | Datum Wertstellung
   + 40,88 Unterschriftenbeglaubigung
   + 75,00 Gebühren Registergericht
   +  0,00 Registerauszug
-*  90,50 € Ausgaben für Kosten des Geldverkehrs (GLS)
+* 101,16 € Ausgaben für Kosten des Geldverkehrs (GLS)
   + 40,00 Kontoführungsgebühren 2019, anteilig
   + 15,52 Kontoführungsgebühren April–Mai 2019
   + 23,13 Kontoführungsgebühren Juni
   + 11,85 Kontoführungsgebühren Juli
-*  19,56 € Ausgaben für Hosting 6 € p.m.
-  + 10,00 Hosting per 26.06.
-  +  2,00 Hosting per 15.07.
+  + 10,66 Kontoführungsgebühren August
+*  25,56 € Ausgaben für Hosting 6 € p.m.
+  + 10,00 Hosting 26.06.
+  +  2,00 Hosting 15.07.
   +  3,76 Domain, 1y coop.wtf (4,06 USD)
   +  3,80 Domain, 1y geno.wtf (4,06 USD)
   +  ? Domain, wtf.coop
-* 206,73 € Ausgaben für Merchandize
+  +  6,00 Hosting 15.08.
+*  81,73 € Merchandize
   + 200,00 10x T-Shirts, handbedruckt
   -  20,00 Spende beim Workshop
   +  26,73 Sticker, 500 Stk
+  - 125,00 5x T-Shirt bei Camp Treffen
 * 325,00 € Vereinsarbeit
   + 255,00 Workshop Ewaldshof 18-19jul19
-  +  70,00 Lebensmittel Ewaldshof 
+  +  70,00 Lebensmittel Ewaldshof
+  +  39,00 Hackerbibel 35 +Verpackung+
+Versand 4
+  -  39,00 Hackerbibel I+II f. Chaostreff
 *   4,00 Kosten für Mitgliederpost
   +   4,00 Porto (DD)
   +   ? Porto (B)
   +   ? Papier
   +   ? Umschläge
 
-### Eingeplante Ausgaben
+### Eingeplante Ausgaben (Schätzung)
 
-* Büromittel und Porto
-* Merch: u.a. Sticker, Shirts
-* Steuerberater für Erklärung des eV an FA Dresden
-* Anwalt für Satzung der Genossenschaft
+* Büromittel und Porto (100)
+* Merch: u.a. Sticker, Shirts (100)
+* Steuerberater für Erklärung des eV an FA Dresden (300)
+* Anwalt für Satzung der Genossenschaft (1000)
 
 ## Erreichbarkeit
 
