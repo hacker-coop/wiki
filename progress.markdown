@@ -48,6 +48,7 @@ Für den eV sind folgende Wertstellungen verzeichnet:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+137 | 1 | 2019-09-18
 136 | 1 | 2019-09-13
 135 | 1 | 2019-09-06
 134 | 1 | 2019-08-30
@@ -124,8 +125,7 @@ Gesamt | Anzahl | Datum Wertstellung
 * 325,00 € Vereinsarbeit
   + 255,00 Workshop Ewaldshof 18-19jul19
   +  70,00 Lebensmittel Ewaldshof
-  +  39,00 Hackerbibel 35 +Verpackung+
-Versand 4
+  +  39,00 35 Hackerbibel, 4 Verpackung,Versand
   -  39,00 Hackerbibel I+II f. Chaostreff
 *   4,00 Kosten für Mitgliederpost
   +   4,00 Porto (DD)
