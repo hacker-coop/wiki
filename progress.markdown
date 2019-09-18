@@ -117,6 +117,7 @@ Gesamt | Anzahl | Datum Wertstellung
   +  3,80 Domain, 1y geno.wtf (4,06 USD)
   +  ? Domain, wtf.coop
   +  6,00 Hosting 15.08.
+  +  6,00 Hosting 16.09.
 *  81,73 € Merchandize
   + 200,00 10x T-Shirts, handbedruckt
   -  20,00 Spende beim Workshop
