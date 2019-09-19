@@ -110,12 +110,12 @@ Gesamt | Anzahl | Datum Wertstellung
   + 23,13 Kontoführungsgebühren Juni
   + 11,85 Kontoführungsgebühren Juli
   + 10,66 Kontoführungsgebühren August
-*  25,56 € Ausgaben für Hosting 6 € p.m.
+* 151,56 € Ausgaben für Hosting, 6 € p.m.
   + 10,00 Hosting 26.06.
   +  2,00 Hosting 15.07.
   +  3,76 Domain, 1y coop.wtf (4,06 USD)
   +  3,80 Domain, 1y geno.wtf (4,06 USD)
-  +  ? Domain, wtf.coop
+  +120,00 Domain, wtf.coop via hscoop
   +  6,00 Hosting 15.08.
   +  6,00 Hosting 16.09.
 *  81,73 € Merchandize
