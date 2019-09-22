@@ -110,6 +110,7 @@ Gesamt | Anzahl | Datum Wertstellung
   + 23,13 Kontoführungsgebühren Juni
   + 11,85 Kontoführungsgebühren Juli
   + 10,66 Kontoführungsgebühren August
+  + 10,66 Kontoführungsgebühren September
 * 151,56 € Ausgaben für Hosting, 6 € p.m.
   + 10,00 Hosting 26.06.
   +  2,00 Hosting 15.07.
@@ -129,6 +130,7 @@ Gesamt | Anzahl | Datum Wertstellung
   +  39,00 35 Hackerbibel, 4 Verpackung,Versand
   -  39,00 Hackerbibel I+II f. Chaostreff
 *   4,00 Kosten für Mitgliederpost
+  +   4,00 Porto (DD)
   +   4,00 Porto (DD)
   +   ? Porto (B)
   +   ? Papier
