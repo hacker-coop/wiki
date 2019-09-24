@@ -7,7 +7,7 @@ Die nach dem Workshop verbliebenen Shirts können gerne zum Wohle der Vereinskas
 
   Größe | Anzahl
   :---: | -----:
-  XL    | 4
+  XL    | 2
   XXL   | 3
   
 ## Preise
