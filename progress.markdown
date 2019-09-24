@@ -119,11 +119,12 @@ Gesamt | Anzahl | Datum Wertstellung
   +120,00 Domain, wtf.coop via hscoop
   +  6,00 Hosting 15.08.
   +  6,00 Hosting 16.09.
-*  81,73 € Merchandize
+*  56,73 € Merchandize
   + 200,00 10x T-Shirts, handbedruckt
   -  20,00 Spende beim Workshop
   +  26,73 Sticker, 500 Stk
   - 125,00 5x T-Shirt bei Camp Treffen
+  -  25,00 1x T-Shirt bei Datenspuren
 * 325,00 € Vereinsarbeit
   + 255,00 Workshop Ewaldshof 18-19jul19
   +  70,00 Lebensmittel Ewaldshof
