@@ -48,6 +48,8 @@ Für den eV sind folgende Wertstellungen verzeichnet:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+140 | 2 | 2019-09-30
+138 | 1 | 2019-09-25
 137 | 1 | 2019-09-18
 136 | 1 | 2019-09-13
 135 | 1 | 2019-09-06
@@ -92,10 +94,6 @@ Gesamt | Anzahl | Datum Wertstellung
   1 | 1 | 2019-05-02
   0 | 0 | 2019-02-25
 
-<!--
-* Davon Zahlungen ohne Beitrittsantrag: 24
-* Dazu Beitrittserklärungen ohne Zahlungseingang: 7
--->
 ## Kostentransparenz
 
 ### Enstandene Ausgaben
