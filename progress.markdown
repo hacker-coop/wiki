@@ -143,6 +143,7 @@ Gesamt | Anzahl | Datum Wertstellung
 * Merch: u.a. Sticker, Shirts (100)
 * Steuerberater für Erklärung des eV an FA Dresden (300)
 * Anwalt für Satzung der Genossenschaft (1000)
+* 2,50 € Staatlich verschuldete Gebühren, jährlich ab 2017 bzw. Eintragung des eV 
 
 ## Erreichbarkeit
 
