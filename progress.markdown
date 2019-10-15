@@ -48,6 +48,7 @@ Für den eV sind folgende Wertstellungen verzeichnet:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+143 | 1 | 2019-10-14
 142 | 1 | 2019-10-10
 141 | 1 | 2019-10-04
 140 | 2 | 2019-09-30
@@ -111,7 +112,7 @@ Gesamt | Anzahl | Datum Wertstellung
   + 11,85 Kontoführungsgebühren Juli
   + 10,66 Kontoführungsgebühren August
   + 12,71 Kontoführungsgebühren September
-* 151,56 € Ausgaben für Hosting, 6 € p.m.
+* 157,56 € Ausgaben für Hosting, 6 € p.m.
   + 10,00 Hosting 26.06.
   +  2,00 Hosting 15.07.
   +  3,76 Domain, 1y coop.wtf (4,06 USD)
@@ -119,6 +120,7 @@ Gesamt | Anzahl | Datum Wertstellung
   +120,00 Domain, wtf.coop via hscoop
   +  6,00 Hosting 15.08.
   +  6,00 Hosting 16.09.
+  +  6,00 Hosting 15.10.
 *  56,73 € Merchandize
   + 200,00 10x T-Shirts, handbedruckt
   -  20,00 Spende beim Workshop
