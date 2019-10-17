@@ -48,6 +48,7 @@ Für den eV sind folgende Wertstellungen verzeichnet:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+144 | 1 | 2019-10-17
 143 | 1 | 2019-10-14
 142 | 1 | 2019-10-10
 141 | 1 | 2019-10-04
