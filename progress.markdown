@@ -114,6 +114,7 @@ Gesamt | Anzahl | Datum Wertstellung
   + 11,85 Kontoführungsgebühren Juli
   + 10,66 Kontoführungsgebühren August
   + 12,71 Kontoführungsgebühren September
+  + 12,28 Kontoführungsgebühren Oktober
 * 157,56 € Ausgaben für Hosting, 6 € p.m.
   + 10,00 Hosting 26.06.
   +  2,00 Hosting 15.07.
