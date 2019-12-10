@@ -1,8 +1,10 @@
 ## Beitragsordnung des Vereines
+von 5. Mai 2019 und mit letzter Aktualisierung vom 10. Dezember 2019
 
 #### § 1 Höhe der Beiträge
 
 * Der Mitgliedsbeitrag beträgt 100 Euro pro Kalenderjahr.
+* Vor Gründung der Genossenschaft wird der Beitrag nur einmalig fällig.
 
 #### § 2 Zahlungsweise
 
