@@ -48,6 +48,7 @@ Für den eV sind folgende Wertstellungen verzeichnet:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+146 | 1 | 2019-12-11
 145 | 1 | 2019-10-23
 144 | 1 | 2019-10-17
 143 | 1 | 2019-10-14
@@ -115,6 +116,7 @@ Gesamt | Anzahl | Datum Wertstellung
   + 10,66 Kontoführungsgebühren August
   + 12,71 Kontoführungsgebühren September
   + 12,28 Kontoführungsgebühren Oktober
+  + 11,57 Kontoführungsgebühren November
 * 157,56 € Ausgaben für Hosting, 6 € p.m.
   + 10,00 Hosting 26.06.
   +  2,00 Hosting 15.07.
@@ -124,6 +126,7 @@ Gesamt | Anzahl | Datum Wertstellung
   +  6,00 Hosting 15.08.
   +  6,00 Hosting 16.09.
   +  6,00 Hosting 15.10.
+  +  6,00 Hosting 15.11.
 *  56,73 € Merchandize
   + 200,00 10x T-Shirts, handbedruckt
   -  20,00 Spende beim Workshop
