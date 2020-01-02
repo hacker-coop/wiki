@@ -109,7 +109,7 @@ Gesamt | Anzahl | Datum Wertstellung
   + 40,88 Unterschriftenbeglaubigung
   + 75,00 Gebühren Registergericht
   +  0,00 Registerauszug
-* 103,21 € Ausgaben für Kosten des Geldverkehrs (GLS)
+* 149,57 € Ausgaben für Kosten des Geldverkehrs (GLS)
   + 40,00 Kontoführungsgebühren 2019, anteilig
   + 15,52 Kontoführungsgebühren April–Mai 2019
   + 23,13 Kontoführungsgebühren Juni
@@ -118,6 +118,7 @@ Gesamt | Anzahl | Datum Wertstellung
   + 12,71 Kontoführungsgebühren September
   + 12,28 Kontoführungsgebühren Oktober
   + 11,57 Kontoführungsgebühren November
+  + 11,85 Kontoführungsgebühren Dezember
 * 157,56 € Ausgaben für Hosting, 6 € p.m.
   + 10,00 Hosting 26.06.
   +  2,00 Hosting 15.07.
