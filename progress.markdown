@@ -44,10 +44,11 @@ oder andere Ausschlussgründe führen zur Verzögerung der Aufnahme.
 
 ## Einzahlung von Beiträgen
  
-Für den eV sind folgende Wertstellungen verzeichnet:
+Für den eV sind folgende *Wertstellungen* verzeichnet:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+148 | 1 | 2020-01-03
 147 | 1 | 2019-12-20
 146 | 1 | 2019-12-11
 145 | 1 | 2019-10-23
