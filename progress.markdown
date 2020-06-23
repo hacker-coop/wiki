@@ -1,7 +1,6 @@
 
 # Progress Daten
 
-
 Der VEBIT eV ist angetreten die notwendigen Mittel zu sammeln und
 Schritte zu unternehmen eine „Hacker Genossenschaft“ zu gründen.
 Ein kurzer Infoflyer ist hier: https://git.vebit.xyz/vebit/wiki/src/branch/master/Flyer0912.pdf bzw. hier: https://ajuvo.crew.c-base.org/Flyer091.pdf
@@ -9,17 +8,19 @@ Die Idee wurde auf Chaosveranstaltungen vorgestellt
 (Videos: [kurz](https://media.ccc.de/v/34c3-9256-lightning_talks_day_2#t=2721 "Lighningtalks Tag 2, 34c3"), [lang](https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-wirtschaften "ChaosWest, 35c3")).
 tl;dr: Wer die Idee interessant findet darf sich wie folgt für weitere Informationen subscriben: <mailto:geno@damals-tm-podcast.de?subject=Interesse>.
 
-Dazu gibt es die [Satzung] und eine [Beitragsordnung].
+Dazu gibt es die [Satzung] und eine [Beitragsordnung] zu lesen.
 Die Beiträge rechnen nicht auf Anteile der Genossenschaft an.
 
-Der Vorstand bittet alle willigen Chaoten und künftige Genossen
-mittels [Beitrittserklärung] in Papierform(!) und [Fragebogen]
-dem Verein beizutreten, sodass der Genossenschaftsgründung in
-diesem Jahr nichts entgegen steht.
+Der Vorstand bittet alle willigen Chaoten ihren Beitritt zu erklären:
+
+0. PGP-Key zur Vefügung stellen (als Anhang oder Link via E-Mail) – und bitte möglichst vor Ablauf hinreichend verlängern.
+1. Beitrag an das in der Erklärung benannte Konto überweisen oder in anderer Weise an uns übergeben.
+2. [Beitrittserklärung] in Papierform(!) an uns senden.
+3. [Fragebogen], gerne auch nur Digital via E-Mail, abgeben.
 
 PDF-Formulare und ihre direkte Nutzung sind sehr abhängig von den
 verwendeten Elementen und dem verwendeten Programm. Getestet wurde
-zum direkten Befüllen u.a. Libre Office Draw und Foxit Reader.
+zum direkten Befüllen u. a. Libre Office Draw und Foxit Reader.
   
 Ein weiterer Beitrag aus den Reihen der neuen Mitglieder war eine
 [Beitrittserklärung als ODT](./vebit_beitrittserklaerung_ausfuellbar.odt)
@@ -43,6 +44,14 @@ im Anschluss.
 Unvollständige Beitrittserklärungen, z.B. ohne Mitteilung und
 Bereitstellung von PGP-Schlüssel, ein Ausbleiben des Mitgliedsbeitrages
 oder andere Ausschlussgründe führen zur Verzögerung der Aufnahme.
+
+### Ablauf beim eV
+
+0. PGP-Schlüssel werden vereinsintern abgelegt.
+1. Beitrittserklärung und Fragebogen werden digital verschlüsselt und im Original abgelegt.
+2. Zahlungseingang wird festgestellt.
+3. Account (E-Mail, Nick) im LDAP (für Dienste wie Forum, Git, …) wird angelegt.
+4. Beitritt wird mit einem Brief an die angegebene Anschrift bestätigt.
 
 ## Einzahlung von Beiträgen
  
