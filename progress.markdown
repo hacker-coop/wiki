@@ -52,13 +52,15 @@ oder andere Ausschlussgründe führen zur Verzögerung der Aufnahme.
 2. Zahlungseingang wird festgestellt.
 3. Account (E-Mail, Nick) im LDAP (für Dienste wie Forum, Git, …) wird angelegt.
 4. Beitritt wird mit einem Brief an die angegebene Anschrift bestätigt.
+5. Der Nutzer kann sein Passwort setzen.
 
 ## Einzahlung von Beiträgen
- 
+ Gewerbesteuern
 Für den eV sind folgende *Wertstellungen* verzeichnet:
 
 Gesamt | Anzahl | Datum Wertstellung
 ------:|-------:|------:
+160 | 3 | 2020-06-20
 157 | 1 | 2020-06-13
 156 | 1 | 2020-06-11
 155 | 1 | 2020-06-06
